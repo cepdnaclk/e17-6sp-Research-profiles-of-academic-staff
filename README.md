@@ -4,8 +4,10 @@ A web portal to collect all publications on all areas under Computer Engineering
 ---
 # Table of Contents
 1. [Introduction](#introduction)
-2. [Our Team](#our-team)
-3. [Links](#links)
+2. [User Case Diagram](#user-case-diagram)
+3. [Solution Architecture](#solution-architecture)
+4. [Our Team](#our-team)
+5. [Links](#links)
 
 ---
 
@@ -30,6 +32,15 @@ Our goal is to create a web portal to collect all publications on all areas unde
 - Ability to find researches via keywords
 
 We are going to use the existing [Repositary](https://github.com/cepdnaclk/people.ce.pdn.ac.lk) and update the existing web page with the mentioned features.
+
+---
+# User Case Diagram
+![User_case_diagram](https://user-images.githubusercontent.com/85993992/158926666-5ba62e34-5142-4af4-9c9e-b32a15944913.png)
+
+---
+# Solution Architecture
+### ✨ Data Flow
+![data_flow](https://user-images.githubusercontent.com/85993992/158926696-e2eb1993-8e2f-4082-8990-dcf035013118.png)
 
 ---
 # Our Team
