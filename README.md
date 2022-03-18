@@ -31,6 +31,7 @@ Our goal is to create a web portal to collect all publications on all areas unde
 - Ability to find researches via keywords
 
 We are going to use the existing [Repositary](https://github.com/cepdnaclk/people.ce.pdn.ac.lk) and update the existing web page with the mentioned features.
+
 ---
 # Solution Architecture
 ### ✨ Data Flow
