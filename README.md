@@ -35,7 +35,7 @@ We are going to use the existing [Repositary](https://github.com/cepdnaclk/peopl
 
 ---
 # User Case Diagram
-![User_case_diagram](https://user-images.githubusercontent.com/85993992/158926666-5ba62e34-5142-4af4-9c9e-b32a15944913.png)
+![User_case_diagram](https://user-images.githubusercontent.com/85993992/158933343-bb5bd1f1-8826-473d-950a-8fd20d0a2224.png)
 
 ---
 # Solution Architecture
