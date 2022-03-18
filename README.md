@@ -4,8 +4,9 @@ A web portal to collect all publications on all areas under Computer Engineering
 ---
 # Table of Contents
 1. [Introduction](#introduction)
-2. [Our Team](#our-team)
-3. [Links](#links)
+2. [Solution Architecture](#solution-architecture)
+3. [Our Team](#our-team)
+4. [Links](#links)
 
 ---
 
@@ -30,6 +31,9 @@ Our goal is to create a web portal to collect all publications on all areas unde
 - Ability to find researches via keywords
 
 We are going to use the existing [Repositary](https://github.com/cepdnaclk/people.ce.pdn.ac.lk) and update the existing web page with the mentioned features.
+---
+# Solution Architecture
+### ✨ Data Flow
 
 ---
 # Our Team
