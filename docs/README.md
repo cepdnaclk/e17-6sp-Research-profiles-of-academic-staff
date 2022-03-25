@@ -57,5 +57,6 @@ We are going to use the existing [Repositary](https://github.com/cepdnaclk/peopl
 
 # Links
 - [Project Repository](https://github.com/cepdnaclk/e17-co328-Research-profiles-of-academic-staff/)
+- [Project Page](https://cepdnaclk.github.io/e17-co328-Research-profiles-of-academic-staff/)
 - [Department of Computer Engineering](http://www.ce.pdn.ac.lk/)
 - [University of Peradeniya](https://eng.pdn.ac.lk/)
