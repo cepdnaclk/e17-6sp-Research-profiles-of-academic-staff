@@ -1,0 +1,25 @@
+{
+    "type": "article",
+    "title": "A Retinex based {GAN} Pipeline to Utilize Paired and Unpaired Datasets for Enhancing Low Light Images",
+    "abstract": "",
+    "year": "2020",
+    "Authors": [
+        "Weligampola, Harshana",
+        "Jayatilaka, Gihan",
+        "Sritharan, Suren",
+        "Godaliyadda, Roshan",
+        "Ekanayaka, Parakrama",
+        "Ragel, Roshan G.",
+        "Herath, Vijitha R."
+    ],
+    "venue": {
+        "journal": "CoRR",
+        "volume": "abs/2006.15304"
+    },
+    "DOI": "",
+    "pdf": "",
+    "pblication url": "https://arxiv.org/abs/2006.15304",
+    "presentation": "",
+    "code": "",
+    "tags": ""
+}

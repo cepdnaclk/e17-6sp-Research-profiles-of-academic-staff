@@ -1,0 +1,24 @@
+{
+    "type": "article",
+    "title": "Hardware Trojan Mitigation in Pipelined MPSoCs",
+    "abstract": "",
+    "year": "2020",
+    "Authors": [
+        "Malekpour, Amin",
+        "Ragel, Roshan G.",
+        "Li, Tuo",
+        "Javaid, Haris",
+        "Ignjatovic, Aleksandar",
+        "Parameswaran, Sri"
+    ],
+    "venue": {
+        "journal": "{ACM} Trans. Design Autom. Electr. Syst.",
+        "volume": "25"
+    },
+    "DOI": "",
+    "pdf": "",
+    "pblication url": "https://doi.org/10.1145/3365578",
+    "presentation": "",
+    "code": "",
+    "tags": ""
+}

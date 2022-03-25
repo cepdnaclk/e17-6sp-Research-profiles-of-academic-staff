@@ -1,0 +1,23 @@
+{
+    "type": "article",
+    "title": "CoMet: a workflow using contig coverage and composition for binning a metagenomic sample with high precision",
+    "abstract": "",
+    "year": "2017",
+    "Authors": [
+        "Herath, Damayanthi",
+        "Tang, Sen{-}Lin",
+        "Tandon, Kshitij",
+        "Ackland, David C.",
+        "Halgamuge, Saman Kumara"
+    ],
+    "venue": {
+        "journal": "{BMC} Bioinform.",
+        "volume": "18"
+    },
+    "DOI": "",
+    "pdf": "",
+    "pblication url": "https://doi.org/10.1186/s12859-017-1967-3",
+    "presentation": "",
+    "code": "",
+    "tags": ""
+}

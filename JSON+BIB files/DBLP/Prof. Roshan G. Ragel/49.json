@@ -1,0 +1,21 @@
+{
+    "type": "article",
+    "title": "Countermeasures against Bernstein's remote cache timing attack",
+    "abstract": "",
+    "year": "2014",
+    "Authors": [
+        "Alawatugoda, Janaka",
+        "Jayasinghe, Darshana",
+        "Ragel, Roshan G."
+    ],
+    "venue": {
+        "journal": "CoRR",
+        "volume": "abs/1403.7297"
+    },
+    "DOI": "",
+    "pdf": "",
+    "pblication url": "http://arxiv.org/abs/1403.7297",
+    "presentation": "",
+    "code": "",
+    "tags": ""
+}

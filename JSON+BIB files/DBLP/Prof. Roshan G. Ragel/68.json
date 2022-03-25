@@ -1,0 +1,21 @@
+{
+    "type": "article",
+    "title": "High Throughput Virtual Screening with Data Level Parallelism in Multi-core Processors",
+    "abstract": "",
+    "year": "2013",
+    "Authors": [
+        "Senanayake, Upul",
+        "Prabuddha, Rahal",
+        "Ragel, Roshan G."
+    ],
+    "venue": {
+        "journal": "CoRR",
+        "volume": "abs/1312.1003"
+    },
+    "DOI": "",
+    "pdf": "",
+    "pblication url": "http://arxiv.org/abs/1312.1003",
+    "presentation": "",
+    "code": "",
+    "tags": ""
+}

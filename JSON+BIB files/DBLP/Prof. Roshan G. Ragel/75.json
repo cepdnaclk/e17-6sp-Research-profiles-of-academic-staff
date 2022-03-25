@@ -1,0 +1,19 @@
+{
+    "type": "inproceedings",
+    "title": "A Hardware/Software Countermeasure and a Testing Framework for Cache Based Side Channel Attacks",
+    "book title": "{IEEE} 10th International Conference on Trust, Security and Privacy in Computing and Communications, TrustCom 2011, Changsha, China, 16-18 November, 2011",
+    "abstract": "",
+    "year": "2011",
+    "Authors": [
+        "Arora, Ankita",
+        "Parameswaran, Sri",
+        "Ragel, Roshan G.",
+        "Jayasinghe, Darshana"
+    ],
+    "DOI": "",
+    "pdf": "",
+    "pblication url": "https://doi.org/10.1109/TrustCom.2011.138",
+    "presentation": "",
+    "code": "",
+    "tags": ""
+}

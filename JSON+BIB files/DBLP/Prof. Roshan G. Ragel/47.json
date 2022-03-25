@@ -1,0 +1,22 @@
+{
+    "type": "article",
+    "title": "Improving the throughput of the {AES} algorithm with multicore processors",
+    "abstract": "",
+    "year": "2014",
+    "Authors": [
+        "Barnes, Angelo",
+        "Fernando, Ryan",
+        "Mettananda, Kasuni",
+        "Ragel, Roshan G."
+    ],
+    "venue": {
+        "journal": "CoRR",
+        "volume": "abs/1403.7295"
+    },
+    "DOI": "",
+    "pdf": "",
+    "pblication url": "http://arxiv.org/abs/1403.7295",
+    "presentation": "",
+    "code": "",
+    "tags": ""
+}
