@@ -1,0 +1,20 @@
+{
+    "type": "article",
+    "title": "Accelerating motif finding in {DNA} sequences with multicore CPUs",
+    "abstract": "",
+    "year": "2014",
+    "Authors": [
+        "Perera, P.",
+        "Ragel, Roshan G."
+    ],
+    "venue": {
+        "journal": "CoRR",
+        "volume": "abs/1403.1313"
+    },
+    "DOI": "",
+    "pdf": "",
+    "pblication url": "http://arxiv.org/abs/1403.1313",
+    "presentation": "",
+    "code": "",
+    "tags": ""
+}

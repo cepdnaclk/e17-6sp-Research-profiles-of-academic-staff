@@ -1,0 +1,21 @@
+{
+    "type": "article",
+    "title": "Constant time encryption as a countermeasure against remote cache timing attacks",
+    "abstract": "",
+    "year": "2014",
+    "Authors": [
+        "Jayasinghe, Darshana",
+        "Ragel, Roshan G.",
+        "Elkaduwe, Dhammika"
+    ],
+    "venue": {
+        "journal": "CoRR",
+        "volume": "abs/1403.7293"
+    },
+    "DOI": "",
+    "pdf": "",
+    "pblication url": "http://arxiv.org/abs/1403.7293",
+    "presentation": "",
+    "code": "",
+    "tags": ""
+}

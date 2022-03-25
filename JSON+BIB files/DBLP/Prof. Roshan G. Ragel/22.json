@@ -1,0 +1,19 @@
+{
+    "type": "inproceedings",
+    "title": "DoSGuard: Protecting pipelined MPSoCs against hardware Trojan based DoS attacks",
+    "book title": "28th {IEEE} International Conference on Application-specific Systems, Architectures and Processors, {ASAP} 2017, Seattle, WA, USA, July 10-12, 2017",
+    "abstract": "",
+    "year": "2017",
+    "Authors": [
+        "Malekpour, Amin",
+        "Ragel, Roshan G.",
+        "Ignjatovic, Aleksandar",
+        "Parameswaran, Sri"
+    ],
+    "DOI": "",
+    "pdf": "",
+    "pblication url": "https://doi.org/10.1109/ASAP.2017.7995258",
+    "presentation": "",
+    "code": "",
+    "tags": ""
+}

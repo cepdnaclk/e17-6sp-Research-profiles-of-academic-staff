@@ -1,0 +1,28 @@
+{
+    "type": "inproceedings",
+    "title": "seL4: formal verification of an {OS} kernel",
+    "book title": "Proceedings of the 22nd {ACM} Symposium on Operating Systems Principles 2009, {SOSP} 2009, Big Sky, Montana, USA, October 11-14, 2009",
+    "abstract": "",
+    "year": "2009",
+    "Authors": [
+        "Klein, Gerwin",
+        "Elphinstone, Kevin",
+        "Heiser, Gernot",
+        "Andronick, June",
+        "Cock, David",
+        "Derrin, Philip",
+        "Elkaduwe, Dhammika",
+        "Engelhardt, Kai",
+        "Kolanski, Rafal",
+        "Norrish, Michael",
+        "Sewell, Thomas",
+        "Tuch, Harvey",
+        "Winwood, Simon"
+    ],
+    "DOI": "",
+    "pdf": "",
+    "pblication url": "https://doi.org/10.1145/1629575.1629596",
+    "presentation": "",
+    "code": "",
+    "tags": ""
+}
