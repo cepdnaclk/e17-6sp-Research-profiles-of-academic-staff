@@ -1,0 +1,21 @@
+{
+    "type": "article",
+    "title": "String Matching with Multicore CPUs: Performing Better with the Aho-Corasick Algorithm",
+    "abstract": "",
+    "year": "2014",
+    "Authors": [
+        "Arudchutha, S.",
+        "Nishanthy, T.",
+        "Ragel, Roshan G."
+    ],
+    "venue": {
+        "journal": "CoRR",
+        "volume": "abs/1403.1305"
+    },
+    "DOI": "",
+    "pdf": "",
+    "pblication url": "http://arxiv.org/abs/1403.1305",
+    "presentation": "",
+    "code": "",
+    "tags": ""
+}

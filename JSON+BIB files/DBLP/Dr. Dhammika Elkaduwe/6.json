@@ -1,0 +1,31 @@
+{
+    "type": "article",
+    "title": "seL4: formal verification of an operating-system kernel",
+    "abstract": "",
+    "year": "2010",
+    "Authors": [
+        "Klein, Gerwin",
+        "Andronick, June",
+        "Elphinstone, Kevin",
+        "Heiser, Gernot",
+        "Cock, David",
+        "Derrin, Philip",
+        "Elkaduwe, Dhammika",
+        "Engelhardt, Kai",
+        "Kolanski, Rafal",
+        "Norrish, Michael",
+        "Sewell, Thomas",
+        "Tuch, Harvey",
+        "Winwood, Simon"
+    ],
+    "venue": {
+        "journal": "Commun. {ACM}",
+        "volume": "53"
+    },
+    "DOI": "",
+    "pdf": "",
+    "pblication url": "https://doi.org/10.1145/1743546.1743574",
+    "presentation": "",
+    "code": "",
+    "tags": ""
+}

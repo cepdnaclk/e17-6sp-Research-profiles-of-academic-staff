@@ -1,0 +1,20 @@
+{
+    "type": "inproceedings",
+    "title": "DIMSim: a rapid two-level cache simulation approach for deadline-based MPSoCs",
+    "book title": "Proceedings of the 10th International Conference on Hardware/Software Codesign and System Synthesis, {CODES+ISSS} 2012, part of ESWeek '12 Eighth Embedded Systems Week, Tampere, Finland, October 7-12, 2012",
+    "abstract": "",
+    "year": "2012",
+    "Authors": [
+        "Haque, Mohammad Shihabul",
+        "Ragel, Roshan G.",
+        "Ambrose, Jude Angelo",
+        "Radhakrishnan, Swarnalatha",
+        "Parameswaran, Sri"
+    ],
+    "DOI": "",
+    "pdf": "",
+    "pblication url": "https://doi.org/10.1145/2380445.2380473",
+    "presentation": "",
+    "code": "",
+    "tags": ""
+}

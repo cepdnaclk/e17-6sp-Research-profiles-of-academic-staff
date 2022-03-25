@@ -1,0 +1,19 @@
+{
+    "type": "inproceedings",
+    "title": "TrojanGuard: Simple and Effective Hardware Trojan Mitigation Techniques for Pipelined MPSoCs",
+    "book title": "Proceedings of the 54th Annual Design Automation Conference, {DAC} 2017, Austin, TX, USA, June 18-22, 2017",
+    "abstract": "",
+    "year": "2017",
+    "Authors": [
+        "Malekpour, Amin",
+        "Ragel, Roshan G.",
+        "Ignjatovic, Aleksandar",
+        "Parameswaran, Sri"
+    ],
+    "DOI": "",
+    "pdf": "",
+    "pblication url": "https://doi.org/10.1145/3061639.3062336",
+    "presentation": "",
+    "code": "",
+    "tags": ""
+}

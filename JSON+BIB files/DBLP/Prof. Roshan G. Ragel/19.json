@@ -1,0 +1,21 @@
+{
+    "type": "article",
+    "title": "To Use or Not to Use: CPUs' Cache Optimization Techniques on GPGPUs",
+    "abstract": "",
+    "year": "2018",
+    "Authors": [
+        "Thambawita, Vajira",
+        "Ragel, Roshan G.",
+        "Elkaduwe, Dhammika"
+    ],
+    "venue": {
+        "journal": "CoRR",
+        "volume": "abs/1810.04063"
+    },
+    "DOI": "",
+    "pdf": "",
+    "pblication url": "http://arxiv.org/abs/1810.04063",
+    "presentation": "",
+    "code": "",
+    "tags": ""
+}

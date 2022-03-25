@@ -1,0 +1,21 @@
+{
+    "type": "article",
+    "title": "Randomized Instruction Injection to Counter Power Analysis Attacks",
+    "abstract": "",
+    "year": "2012",
+    "Authors": [
+        "Ambrose, Jude Angelo",
+        "Ragel, Roshan G.",
+        "Parameswaran, Sri"
+    ],
+    "venue": {
+        "journal": "{ACM} Trans. Embed. Comput. Syst.",
+        "volume": "11"
+    },
+    "DOI": "",
+    "pdf": "",
+    "pblication url": "https://doi.org/10.1145/2345770.2345782",
+    "presentation": "",
+    "code": "",
+    "tags": ""
+}

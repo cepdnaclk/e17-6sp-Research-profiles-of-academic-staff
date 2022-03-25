@@ -1,0 +1,23 @@
+{
+    "type": "article",
+    "title": "QuadSeal: Quadruple Balancing to Mitigate Power Analysis Attacks with Variability Effects and Electromagnetic Fault Injection Attacks",
+    "abstract": "",
+    "year": "2021",
+    "Authors": [
+        "Jayasinghe, Darshana",
+        "Ignjatovic, Aleksandar",
+        "Ragel, Roshan G.",
+        "Ambrose, Jude Angelo",
+        "Parameswaran, Sri"
+    ],
+    "venue": {
+        "journal": "{ACM} Trans. Design Autom. Electr. Syst.",
+        "volume": "26"
+    },
+    "DOI": "",
+    "pdf": "",
+    "pblication url": "https://doi.org/10.1145/3443706",
+    "presentation": "",
+    "code": "",
+    "tags": ""
+}

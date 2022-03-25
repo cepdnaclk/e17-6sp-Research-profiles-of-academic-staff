@@ -1,0 +1,20 @@
+{
+    "type": "inproceedings",
+    "title": "QuadSeal: Quadruple algorithmic symmetrizing countermeasure against power based side-channel attacks",
+    "book title": "2015 International Conference on Compilers, Architecture and Synthesis for Embedded Systems, {CASES} 2015, Amsterdam, The Netherlands, October 4-9, 2015",
+    "abstract": "",
+    "year": "2015",
+    "Authors": [
+        "Jayasinghe, Darshana",
+        "Ignjatovic, Aleksandar",
+        "Ambrose, Jude Angelo",
+        "Ragel, Roshan G.",
+        "Parameswaran, Sri"
+    ],
+    "DOI": "",
+    "pdf": "",
+    "pblication url": "https://doi.org/10.1109/CASES.2015.7324539",
+    "presentation": "",
+    "code": "",
+    "tags": ""
+}

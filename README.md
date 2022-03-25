@@ -4,8 +4,10 @@ A web portal to collect all publications on all areas under Computer Engineering
 ---
 # Table of Contents
 1. [Introduction](#introduction)
-2. [Our Team](#our-team)
-3. [Links](#links)
+2. [User Case Diagram](#user-case-diagram)
+3. [Solution Architecture](#solution-architecture)
+4. [Our Team](#our-team)
+5. [Links](#links)
 
 ---
 
@@ -32,6 +34,15 @@ Our goal is to create a web portal to collect all publications on all areas unde
 We are going to use the existing [Repositary](https://github.com/cepdnaclk/people.ce.pdn.ac.lk) and update the existing web page with the mentioned features.
 
 ---
+# User Case Diagram
+![User_case_diagram](https://user-images.githubusercontent.com/85993992/158933343-bb5bd1f1-8826-473d-950a-8fd20d0a2224.png)
+
+---
+# Solution Architecture
+### ✨ Data Flow
+![data_flow](https://user-images.githubusercontent.com/85993992/158926696-e2eb1993-8e2f-4082-8990-dcf035013118.png)
+
+---
 # Our Team
 1. E/17/122 Shazna Isthikar [[e17122@eng.pdn.ac.lk](mailto:e17122@eng.pdn.ac.lk)]
 2. E/17/153 Odasara Karunachandra [[e17153@eng.pdn.ac.lk](mailto:e17153@eng.pdn.ac.lk)]
@@ -39,6 +50,7 @@ We are going to use the existing [Repositary](https://github.com/cepdnaclk/peopl
 ---
 # Links
 - [Project Repository](https://github.com/cepdnaclk/e17-co328-Research-profiles-of-academic-staff/)
+- [Project Page](https://cepdnaclk.github.io/e17-co328-Research-profiles-of-academic-staff/)
 - [Department of Computer Engineering](http://www.ce.pdn.ac.lk/)
 - [University of Peradeniya](https://eng.pdn.ac.lk/)
 
