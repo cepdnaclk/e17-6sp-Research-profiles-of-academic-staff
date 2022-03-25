@@ -13,7 +13,7 @@ title:
 
 ---
 
-This is a sample image, to show how to add images to your page. To learn more options, please refer [this](https://projects.ce.pdn.ac.lk/docs/faq/how-to-add-an-image/)
+
 
 ![Sample Image](./images/sample.png)
 
@@ -52,6 +52,8 @@ Our goal is to create a web portal to collect all publications on all areas unde
 We are going to use the existing [Repositary](https://github.com/cepdnaclk/people.ce.pdn.ac.lk) and update the existing web page with the mentioned features.
 
 ---
+# User Case Diagram
+![User_case_diagram](https://user-images.githubusercontent.com/85993992/158933343-bb5bd1f1-8826-473d-950a-8fd20d0a2224.png)
 
 # Links
 - [Project Repository](https://github.com/cepdnaclk/e17-co328-Research-profiles-of-academic-staff/)
