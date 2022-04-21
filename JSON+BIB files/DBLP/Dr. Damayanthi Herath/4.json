@@ -1,7 +1,7 @@
 {
     "type": "article",
     "title": "ENVirT: inference of ecological characteristics of viruses from metagenomic data",
-    "abstract": "",
+    "abstract": "In this paper, we present ENVirT, a method for estimating the richness of novel viral mixtures, and for the first time we also show that it is possible to simultaneously estimate the average genome length without a priori information. This is shown to be a significant improvement over database-dependent methods, since we can now robustly analyze samples that may include novel viral types under-represented in current databases. We demonstrate that the viral richness estimates produced by ENVirT are several orders of magnitude higher in accuracy than the estimates produced by existing methods named PHACCS and CatchAll when benchmarked against simulated data. We repeated the analysis of 20 metavirome samples using ENVirT, which produced results in close agreement with complementary in virto analyses.",
     "year": "2019",
     "Authors": [
         "Jayasundara, Duleepa",
@@ -18,10 +18,10 @@
         "journal": "{BMC} Bioinform.",
         "volume": "19-S"
     },
-    "DOI": "",
-    "pdf": "",
-    "pblication url": "https://doi.org/10.1186/s12859-018-2398-5",
+    "DOI": "10.1186/s12859-018-2398-5",
+    "pdf": "https://bmcbioinformatics.biomedcentral.com/track/pdf/10.1186/s12859-018-2398-5.pdf",
+    "publication url": "https://doi.org/10.1186/s12859-018-2398-5",
     "presentation": "",
     "code": "",
-    "tags": ""
+    "tags": ["Richness estimation","Viral metagenomics", "Average genome length"]
 }
