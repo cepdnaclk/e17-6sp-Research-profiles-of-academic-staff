@@ -1,7 +1,7 @@
 {
     "type": "article",
     "title": "Reporting Available Demand Response",
-    "abstract": "",
+    "abstract": "Demand response is increasingly important in many power systems but Transmission System Operators (TSO) require confirmation that the response is available if it is to be used effectively. Demand response may be used to minimise the amount of spinning reserve obtained from partially loaded generators. The ability of the proposed smart metering communication system in the U.K. to report the available demand response from domestic appliances was examined. This communication system expects to send all data traffic at an average rate of about 190 Mbytes per minute through a central Data Communication Company (DCC) to any actor operating in the power system. It is unlikely that this communication system will, in addition, support reporting demand response in near real-time. Using load profiles of fridges, cooking appliances and washers and dryers, the load profiles of 40 000 houses were constructed. These load profiles were used to calculate the average number of load changes in a typical house, a 11/0.4 kV transformer and a high voltage substation. Using these average numbers of load changes and the number of transformers and substations in the U.K. power system, the number of messages sent by all smart meters in the U.K. was calculated. It is shown that the wide area network proposed for the U.K. need to send an additional 162 Mbytes per minute to report demand response in near real-time. Then, a hierarchically arranged communication system that follows the hierarchy of electrical network was examined. It was assumed that aggregating units are installed at distribution transformers and substations. It is shown that by aggregating and sending only measurement changes, the number of bytes sent through the U.K. smart metering communication system per minute could be reduced from 162 M to 30 k. This has important implications as the U.K. is now finalizing the specifications for smart metering communications for about 27 million smart electricity meters that will be installed in the period 2014-2020.",
     "year": "2013",
     "Authors": [
         "Samarakoon, Kamalanath",
@@ -12,10 +12,13 @@
         "journal": "{IEEE} Trans. Smart Grid",
         "volume": "4"
     },
-    "DOI": "",
+    "DOI": "10.1109/TSG.2013.2258045",
     "pdf": "",
-    "pblication url": "https://doi.org/10.1109/TSG.2013.2258045",
+    "publication url": "https://doi.org/10.1109/TSG.2013.2258045",
     "presentation": "",
     "code": "",
-    "tags": ""
+    "tags": ["demand side management" , "distribution networks", "power engineering computing",
+        "refrigerators" , "smart meters", "substations", "transformers" , "wide area networks,Load management" ,
+        "Smart meters", "Wide area networks" , "Home appliances", "Power measurement" , "Substations" ,
+        "Communication networks"]
 }

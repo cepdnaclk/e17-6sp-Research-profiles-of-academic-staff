@@ -1,7 +1,7 @@
 {
     "type": "article",
     "title": "Support of Mobile Phones in a Private Network for Science Teaching",
-    "abstract": "",
+    "abstract": "The potential of mobile phones to facilitate students’ science learning, when they are engaging in group activities, was investigated. To minimize the disciplinary issues emerged from the previous research on mobile devices and to enhance the quality of learning, a set of mobile phones that are connected to a private network was used. The lesson planning and implementation through these mobile phones were facilitated by a web based Application. A purposively selected group of teachers developed three lessons while integrating mobile phones in a private network into learning activities. Then the lessons were implemented in real classroom settings. This paper is based on one of the lessons ‘Waves and their Characteristics’ that was implemented for Grade 11 students. The data were collected through observations using audio, video and field notes and were analyzed using thematic analysis technique with the help of NVivo10 qualitative data analysis software. Based on the thematic analysis, two assertions were derived. Notably teachers appreciated the support of the private network in enhancing the quality of group learning activity while minimizing the students’ misuse of mobile phones.",
     "year": "2016",
     "Authors": [
         "Ekanayake, Sakunthala",
@@ -11,10 +11,10 @@
         "journal": "Int. J. Interact. Mob. Technol.",
         "volume": "10"
     },
-    "DOI": "",
-    "pdf": "",
-    "pblication url": "https://www.online-journals.org/index.php/i-jim/article/view/4817",
+    "DOI": "10.3991/ijim.v10i2.4817",
+    "pdf": "https://online-journals.org/index.php/i-jim/article/view/4817/3893",
+    "publication url": "https://www.online-journals.org/index.php/i-jim/article/view/4817",
     "presentation": "",
     "code": "",
-    "tags": ""
+    "tags": ["Mobile learning", "Science education"]
 }

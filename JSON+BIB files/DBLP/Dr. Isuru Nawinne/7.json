@@ -2,17 +2,18 @@
     "type": "inproceedings",
     "title": "Latency-constrained binding of data flow graphs to energy conscious GALS-based MPSoCs",
     "book title": "2013 {IEEE} International Symposium on Circuits and Systems (ISCAS2013), Beijing, China, May 19-23, 2013",
-    "abstract": "",
+    "abstract": "Mapping tasks to cores in an Multiprocessor System-on-Chip (MPSoC) to meet constraints is widely investigated. Thus far the data flow graphs used for binding have been limited to acyclic graphs or have been single rate. In this paper we generalize the approach by allowing DFGs to be cyclic and multi rate. We further improve energy consumption by setting frequency per core in a Globally Asynchronous and Locally Synchronous (GALS) architecture (by the distribution of slack). A design flow is proposed with these two approaches to form a latency constrained and energy efficient binding. A generalized solution is proposed, compared to state-of-the-art, using improvements in formulation, data structures and heuristics. Eight benchmarks are experimented upon for mesh and pipeline architectures. Our heuristics achieve significant simulation speedup compared to the state-of-the-art and provide a solution which is 2.5% lower (26% worst case) than the optimal, but the solution is obtained 40x quicker (average case). Such a speedup allows us to rapidly explore a large design space.",
     "year": "2013",
     "Authors": [
         "Ambrose, Jude Angelo",
         "Nawinne, Isuru",
         "Parameswaran, Sri"
     ],
-    "DOI": "",
+    "DOI": "10.1109/ISCAS.2013.6572070",
     "pdf": "",
-    "pblication url": "https://doi.org/10.1109/ISCAS.2013.6572070",
+    "publication url": "https://doi.org/10.1109/ISCAS.2013.6572070",
     "presentation": "",
     "code": "",
-    "tags": ""
+    "tags": ["Ports (Computers)","Convex functions","Program processors","Data structures","Mathematical model","Flow graphs", "data flow graphs",
+    "integrated circuit design","multiprocessing systems","system-on-chip"]
 }

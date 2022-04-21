@@ -1,7 +1,7 @@
 {
     "type": "article",
     "title": "CoMet: a workflow using contig coverage and composition for binning a metagenomic sample with high precision",
-    "abstract": "",
+    "abstract": "Binning methods based on both compositional features and coverages of contigs had higher performances than the method which is based only on compositional features of contigs. CoMet yielded higher or comparable precision in comparison to the existing binning methods on benchmark datasets of varying complexities. MyCC (coverage) had the highest ranking score in F1-score. However, the performances of CoMet were higher than MyCC (coverage) on the dataset containing multiple strains. Furthermore, CoMet recovered contigs of more species and was 18 - 39% higher in precision than the compared existing methods in discriminating species from the sample of multiple strains. CoMet resulted in higher precision than MyCC (default) and MyCC (coverage) on a real metagenome.",
     "year": "2017",
     "Authors": [
         "Herath, Damayanthi",
@@ -14,10 +14,10 @@
         "journal": "{BMC} Bioinform.",
         "volume": "18"
     },
-    "DOI": "",
-    "pdf": "",
-    "pblication url": "https://doi.org/10.1186/s12859-017-1967-3",
+    "DOI": "10.1186/s12859-017-1967-3",
+    "pdf": "https://bmcbioinformatics.biomedcentral.com/track/pdf/10.1186/s12859-017-1967-3.pdf",
+    "publication url": "https://doi.org/10.1186/s12859-017-1967-3",
     "presentation": "",
     "code": "",
-    "tags": ""
+    "tags": ["Metagenomics", "Binning", "Contig coverage", "Contig composition", "DBSCAN algorithm"]
 }

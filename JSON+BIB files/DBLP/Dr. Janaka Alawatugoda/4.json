@@ -1,7 +1,7 @@
 {
     "type": "article",
     "title": "Authenticated Key Exchange Protocol in the Standard Model under Weaker Assumptions",
-    "abstract": "",
+    "abstract": "A two-party authenticated key exchange (AKE) protocol allows each of the two parties to share a common secret key over insecure channels even in the presence of active adversaries who can actively control and modify the exchanged messages. To capture the various kind of malicious behaviors of the adversaries, there have been lots of efforts to define the security models. Amongst them, the extended Canetti-Krawczyk (eCK) security model is considered as one of the strongest ones and widely adopted. In this paper, we present a pairing-based eCK-secure AKE protocol in the standard model. The underlying assumptions of our construction are the hardness of the decisional bilinear Diffie-Hellman (DBDH) problem and the existence of pseudorandom functions. It is notable that the previous constructions either relied their security on random oracles or used somewhat strong assumptions such as the existence of strong-pseudorandom functions. We believe our construction is well-suited for real-world implementations such as the TLS protocol suite since our construction is simple and based on standard assumptions without random oracles.",
     "year": "2021",
     "Authors": [
         "Alawatugoda, Janaka",
@@ -15,5 +15,5 @@
     "pblication url": "https://eprint.iacr.org/2021/887",
     "presentation": "",
     "code": "",
-    "tags": ""
+    "tags": ["cryptographic protocols", "Authenticated key exchange", "eCK model", "Standard model", "Pairing","Weaker assumptions"]
 }

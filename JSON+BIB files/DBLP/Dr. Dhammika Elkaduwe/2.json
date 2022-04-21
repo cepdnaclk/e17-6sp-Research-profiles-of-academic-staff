@@ -1,7 +1,7 @@
 {
     "type": "article",
     "title": "An optimized Parallel Failure-less Aho-Corasick algorithm for {DNA} sequence matching",
-    "abstract": "",
+    "abstract": "The Aho-Corasick algorithm is a multiple patterns searching algorithm running sequentially in various applications like network intrusion detection and bioinformatics for finding several input strings within a given large input string. The parallel version of the Aho-Corasick algorithm is called as Parallel Failure-less Aho-Corasick algorithm because it doesnt need failure links like in the original Aho-Corasick algorithm. In this research, we implemented an application specific parallel failureless Aho-Corasick algorithm on the general purpose raphic processing unit by applying several cache optimization techniques for matching DNA sequences. Our parallel AhoCorasick algorithm shows better performance than the available parallel Aho-Corasick algorithm library due to its simplicity and optimized cache memory usage of graphic processing units for matching DNA sequences.",
     "year": "2018",
     "Authors": [
         "Thambawita, Vajira",
@@ -12,10 +12,10 @@
         "journal": "CoRR",
         "volume": "abs/1811.10498"
     },
-    "DOI": "",
-    "pdf": "",
-    "pblication url": "http://arxiv.org/abs/1811.10498",
+    "DOI": "10.48550/arXiv.1811.10498",
+    "pdf": "https://arxiv.org/pdf/1811.10498.pdf",
+    "publication url": "http://arxiv.org/abs/1811.10498",
     "presentation": "",
     "code": "",
-    "tags": ""
+    "tags": ["Aho-Corasick", "GPGPU", "DNA sequence matching"]
 }

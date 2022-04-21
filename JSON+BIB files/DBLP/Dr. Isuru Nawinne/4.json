@@ -1,7 +1,7 @@
 {
     "type": "article",
     "title": "Switchable cache: utilising dark silicon for application specific cache optimisations",
-    "abstract": "",
+    "abstract": "Caches are used to improve memory access time and energy consumption. The cache configuration which enables the best performance often differs between applications due to diverse memory access patterns. The authors present a new concept, called switchable cache, where multiple cache configurations exist on chip, leveraging the abundant transistors available due to what is known as the dark silicon phenomenon. Only one cache configuration is active at any given time based on the application under execution, while all other configurations remain inactive (dark). They describe an architecture to enable seamless integration of multiple cache configurations, and a novel design space exploration methodology to rapidly pre-determine the optimal set of configurations at design-time, for a given group of applications. For design spaces containing trillions of design points, the authors’ exploration methodology always found the optimal solution in less than 2 s. The switchable cache improved memory access time by up to 26.2% when compared to a fixed cache.",
     "year": "2016",
     "Authors": [
         "Nawinne, Isuru",
@@ -13,9 +13,9 @@
         "journal": "{IET} Comput. Digit. Tech.",
         "volume": "10"
     },
-    "DOI": "",
-    "pdf": "",
-    "pblication url": "https://doi.org/10.1049/iet-cdt.2015.0114",
+    "DOI": "10.1049/iet-cdt.2015.0114",
+    "pdf": "https://ietresearch.onlinelibrary.wiley.com/doi/epdf/10.1049/iet-cdt.2015.0114",
+    "publication url": "https://doi.org/10.1049/iet-cdt.2015.0114",
     "presentation": "",
     "code": "",
     "tags": ""

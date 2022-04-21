@@ -1,7 +1,7 @@
 {
     "type": "article",
     "title": "Machine learning for plant microRNA prediction: {A} systematic review",
-    "abstract": "",
+    "abstract": "MicroRNAs (miRNAs) are endogenous small non-coding RNAs that play an important role in posttranscriptional gene regulation. However, the experimental determination of miRNA sequence and structure is both expensive and time-consuming. Therefore, computational and machine learning-based approaches have been adopted to predict novel microRNAs. With the involvement of data science and machine learning in biology, multiple research studies have been conducted to find microRNAs with different computational methods and different miRNA features. Multiple approaches are discussed in detail considering the learning algorithm/s used, features considered, dataset/s used and the criteria used in evaluations. This systematic review focuses on the machine learning methods developed for miRNA identification in plants. This will help researchers to gain a detailed idea about past studies and identify novel paths that solve drawbacks occurred in past studies. Our findings highlight the need for plant-specific computational methods for miRNA identification.",
     "year": "2021",
     "Authors": [
         "Jayasundara, Shyaman",
@@ -13,10 +13,10 @@
         "journal": "CoRR",
         "volume": "abs/2106.15159"
     },
-    "DOI": "",
-    "pdf": "",
-    "pblication url": "https://arxiv.org/abs/2106.15159",
+    "DOI": "10.48550/arXiv.2106.15159",
+    "pdf": "https://arxiv.org/pdf/2106.15159",
+    "publication url": "https://arxiv.org/abs/2106.15159",
     "presentation": "",
     "code": "",
-    "tags": ""
+    "tags": ["bioinformatics", "novel miRNA", "machine learning", "microRNA", "plant", "systematic review", "prediction"]
 }
