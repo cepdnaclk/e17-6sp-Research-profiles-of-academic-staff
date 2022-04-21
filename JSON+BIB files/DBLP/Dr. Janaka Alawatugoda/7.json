@@ -1,7 +1,7 @@
 {
     "type": "article",
     "title": "Review on Leakage Resilient Key Exchange Security Model",
-    "abstract": "",
+    "abstract": "In leakage resilient cryptography, leakage resilient key exchange protocols are constructed to defend against leakage attacks. Then, the key exchange protocol is proved with leakage resilient security model to determine whether its security proof can provide the security properties it claimed or to find out any unexamined flaw during protocol building. It is an interesting work to review the meaningful security properties provided by these security models. This work review how a leakage resilient security model for a key exchange protocol has been evolved over years according to the increasing security requirement which covers a different range of attacks. The relationship on how an adversary capability in the leakage resilient security model can be related to real-world attack scenarios is studied. The analysis work for each leakage resilient security model here enables a better knowledge on how an adversary query addresses different leakage attacks setting, thereby understand the motive of design for a cryptographic primitive in the security model.",
     "year": "2019",
     "Authors": [
         "Chan, Zheng Wei Clement",
@@ -11,8 +11,8 @@
     "venue": {
         "journal": "Int. J. Commun. Networks Inf. Secur."
     },
-    "DOI": "",
-    "pdf": "",
+    "DOI": "10.54039/ijcnis.v11i1.3790",
+    "pdf": "https://www.ijcnis.org/index.php/ijcnis/article/download/3790/335",
     "pblication url": "http://www.ijcnis.org/index.php/ijcnis/article/view/3790",
     "presentation": "",
     "code": "",
