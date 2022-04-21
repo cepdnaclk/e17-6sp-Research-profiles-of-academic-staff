@@ -1,21 +1,24 @@
 {
-    "type": "article",
-    "title": "Review on leakage resilient key exchange security models",
-    "abstract": "",
-    "year": "2019",
-    "Authors": [
-        "Wei, C.C.Z.",
-        "Wen, C.C.",
-        "Alawatugoda, J."
-    ],
-    "venue": {
-        "journal": "International Journal of Communication Networks and Information Security",
-        "volume": "11"
-    },
-    "DOI": "",
-    "pdf": "",
-    "pblication url": "",
-    "presentation": "",
-    "code": "",
-    "tags": ""
+  "type": "article",
+  "title": "Review on leakage resilient key exchange security models",
+  "abstract": "In leakage resilient cryptography, leakage resilient key exchange protocols are constructed to defend against leakage attacks. Then, the key exchange protocol is proved with leakage resilient security model to determine whether its security proof can provide the security properties it claimed or to find out any unexamined flaw during protocol building. It is an interesting work to review the meaningful security properties provided by these security models. This work review how a leakage resilient security model for a key exchange protocol has been evolved over years according to the increasing security requirement which covers a different range of attacks. The relationship on how an adversary capability in the leakage resilient security model can be related to real-world attack scenarios is studied. The analysis work for each leakage resilient security model here enables a better knowledge on how an adversary query addresses different leakage attacks setting, thereby understand the motive of design for a cryptographic primitive in the security model. © 2019 Kohat University of Science and Technology.",
+  "year": "2019",
+  "Authors": ["Wei, C.C.Z.", "Wen, C.C.", "Alawatugoda, J."],
+  "venue": {
+    "journal": "International Journal of Communication Networks and Information Security",
+    "volume": "11"
+  },
+  "DOI": "",
+  "pdf": "",
+  "publication url": "http://www.scopus.com/inward/record.url?eid=2-s2.0-85065514385&partnerID=MN8TOARS",
+  "presentation": "",
+  "code": "",
+  "tags": [
+    "Key exchange protocol",
+    "Leakage attacks",
+    "Leakage resilience",
+    "Leakage-resilient cryptography",
+    "Security models",
+    "Side-channel attacks"
+  ]
 }

@@ -1,21 +1,22 @@
 {
-    "type": "article",
-    "title": "Leakage-resilient non-interactive key exchange in the continuous-memory leakage setting",
-    "abstract": "",
-    "year": "2017",
-    "Authors": [
-        "Chakraborty, S.",
-        "Alawatugoda, J.",
-        "Pandu Rangan, C."
-    ],
-    "venue": {
-        "journal": "Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)",
-        "volume": "10592 LNCS"
-    },
-    "DOI": "",
-    "pdf": "",
-    "pblication url": "",
-    "presentation": "",
-    "code": "",
-    "tags": ""
+  "type": "article",
+  "title": "Leakage-resilient non-interactive key exchange in the continuous-memory leakage setting",
+  "abstract": "Recently, Chakraborty et al. (Cryptoeprint:2017:441) showed a novel approach of constructing several leakage-resilient cryptographic primitives by introducing a new primitive called leakage-resilient non-interactive key exchange (LR-NIKE). Their construction of LR-NIKE was only in the bounded-memory leakage model, and they left open the construction of LR-NIKE in continuous-memory leakage model. In this paper we address that open problem. Moreover, we extend the continuous-memory leakage model by addressing more realistic after-the-fact leakage. The main ingredients of our construction are a leakage-resilient storage scheme and a refreshing protocol (Dziembowski and Faust, Asiacrypt 2011) and a (standard) chameleon hash function (CHF), equipped with an additional property of oblivious sampling, which we introduce. We observe that the present constructions of CHF already satisfies our new notion. Further, our protocol can be used as a building block to construct leakage-resilient public-key encryption schemes, interactive key exchange and low-latency key exchange protocols in the continuous-memory leakage model, following the approach of Chakraborty et al. (Cryptoeprint:2017:441).",
+  "year": "2017",
+  "Authors": ["Chakraborty, S.", "Alawatugoda, J.", "Pandu Rangan, C."],
+  "venue": {
+    "journal": "Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)",
+    "volume": "10592 LNCS"
+  },
+  "DOI": "10.1007/978-3-319-68637-0_10",
+  "pdf": "",
+  "publication url": "http://www.scopus.com/inward/record.url?eid=2-s2.0-85032704882&partnerID=MN8TOARS",
+  "presentation": "",
+  "code": "",
+  "tags": [
+    "After-the-fact leakage",
+    "Continuous-memory leakage",
+    "Key exchange protocols",
+    "Leakage-resilient"
+  ]
 }

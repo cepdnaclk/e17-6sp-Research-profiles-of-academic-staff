@@ -1,24 +1,31 @@
 {
-    "type": "article",
-    "title": "Assessing Species Diversity Using Metavirome Data: Methods and Challenges",
-    "abstract": "",
-    "year": "2017",
-    "Authors": [
-        "Herath, D.",
-        "Jayasundara, D.",
-        "Ackland, D.",
-        "Saeed, I.",
-        "Tang, S.-L.",
-        "Halgamuge, S."
-    ],
-    "venue": {
-        "journal": "Computational and Structural Biotechnology Journal",
-        "volume": "15"
-    },
-    "DOI": "",
-    "pdf": "",
-    "pblication url": "",
-    "presentation": "",
-    "code": "",
-    "tags": ""
+  "type": "article",
+  "title": "Assessing Species Diversity Using Metavirome Data: Methods and Challenges",
+  "abstract": "",
+  "year": "2017",
+  "Authors": [
+    "Herath, D.",
+    "Jayasundara, D.",
+    "Ackland, D.",
+    "Saeed, I.",
+    "Tang, S.-L.",
+    "Halgamuge, S."
+  ],
+  "venue": {
+    "journal": "Computational and Structural Biotechnology Journal",
+    "volume": "15"
+  },
+  "DOI": "10.1016/j.csbj.2017.09.001",
+  "pdf": "https://www.sciencedirect.com/science/article/pii/S2001037017300223/pdfft?isDTMRedir=true&download=true",
+  "publication url": "https://www.sciencedirect.com/science/article/pii/S2001037017300223?via%3Dihub",
+  "presentation": "",
+  "code": "",
+  "tags": [
+    "Biodiversity",
+    "Bioinformatics",
+    "Metagenomics",
+    "Metavirome data",
+    "Phage studies",
+    "Species diversity"
+  ]
 }
