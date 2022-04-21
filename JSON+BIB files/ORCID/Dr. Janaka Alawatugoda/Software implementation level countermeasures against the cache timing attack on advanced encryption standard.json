@@ -1,20 +1,21 @@
 {
-    "type": "article",
-    "title": "Software implementation level countermeasures against the cache timing attack on advanced encryption standard",
-    "abstract": "",
-    "year": "2013",
-    "Authors": [
-        "Herath, U.",
-        "Alawatugoda, J.",
-        "Ragel, R."
-    ],
-    "venue": {
-        "journal": "2013 IEEE 8th International Conference on Industrial and Information Systems, ICIIS 2013 - Conference Proceedings"
-    },
-    "DOI": "",
-    "pdf": "",
-    "pblication url": "",
-    "presentation": "",
-    "code": "",
-    "tags": ""
+  "type": "article",
+  "title": "Software implementation level countermeasures against the cache timing attack on advanced encryption standard",
+  "abstract": "Advanced Encryption Standard (AES) is a symmetric key encryption algorithm which is extensively used in secure electronic data transmission. When introduced, although it was tested and declared as secure, in 2005, a researcher named Bernstein claimed that it is vulnerable to side channel attacks. The cache-based timing attack is the type of side channel attack demonstrated by Bernstein, which uses the timing variation in cache hits and misses. This kind of attacks can be prevented by masking the actual timing information from the attacker. Such masking can be performed by altering the original AES software implementation while preserving its semantics. This paper presents possible software implementation level countermeasures against Bernstein's cache timing attack. Two simple software based countermeasures based on the concept of “constant-encryption-time” were demonstrated against the remote cache timing attack with positive outcomes, in which we establish a secured environment for the AES encryption.",
+  "year": "2013",
+  "Authors": ["Herath, U.", "Alawatugoda, J.", "Ragel, R."],
+  "venue": {
+    "journal": "2013 IEEE 8th International Conference on Industrial and Information Systems, ICIIS 2013 - Conference Proceedings"
+  },
+  "DOI": "10.1109/ICIInfS.2013.6731958",
+  "pdf": "",
+  "publication url": "http://www.scopus.com/inward/record.url?eid=2-s2.0-84894501013&partnerID=MN8TOARS",
+  "presentation": "",
+  "code": "",
+  "tags": [
+    "Advanced Encryption Standard",
+    "Cache Timing Attack",
+    "Constant time encryption",
+    "Side Channel Attack"
+  ]
 }

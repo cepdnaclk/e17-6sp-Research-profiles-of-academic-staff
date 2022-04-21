@@ -1,25 +1,35 @@
 {
-    "type": "article",
-    "title": "Analysis of four historical ciphers against known plaintext frequency statistical attack",
-    "abstract": "",
-    "year": "2018",
-    "Authors": [
-        "Wen, C.C.",
-        "Samylingam, V.",
-        "Darmawan, I.",
-        "Palaniappan, P.S.S.",
-        "Foozy, C.F.M.",
-        "Ramli, S.N.",
-        "Alawatugoda, J."
-    ],
-    "venue": {
-        "journal": "International Journal of Integrated Engineering",
-        "volume": "10"
-    },
-    "DOI": "",
-    "pdf": "",
-    "pblication url": "",
-    "presentation": "",
-    "code": "",
-    "tags": ""
+  "type": "article",
+  "title": "Analysis of four historical ciphers against known plaintext frequency statistical attack",
+  "abstract": "The need of keeping information securely began thousands of years. The practice to keep the information securely is by scrambling the message into unreadable form namely ciphertext. This process is called encryption. Decryption is the reverse process of encryption. For the past, historical ciphers are used to perform encryption and decryption process. For example, the common historical ciphers are Hill cipher, Playfair cipher, Random Substitution cipher and Vigenère cipher. This research is carried out to examine and to analyse the security level of these four historical ciphers by using known plaintext frequency statistical attack. The result had shown that Playfair cipher and Hill cipher have better security compare with Vigenère cipher and Random Substitution cipher.",
+  "year": "2018",
+  "Authors": [
+    "Wen, C.C.",
+    "Samylingam, V.",
+    "Darmawan, I.",
+    "Palaniappan, P.S.S.",
+    "Foozy, C.F.M.",
+    "Ramli, S.N.",
+    "Alawatugoda, J."
+  ],
+  "venue": {
+    "journal": "International Journal of Integrated Engineering",
+    "volume": "10"
+  },
+  "DOI": "",
+  "pdf": "",
+  "publication url": "http://www.scopus.com/inward/record.url?eid=2-s2.0-85059297055&partnerID=MN8TOARS",
+  "presentation": "",
+  "code": "",
+  "tags": [
+    " Cryptanalysis",
+    "Cipher",
+    "Encryption",
+    "Hill Cipher",
+    "Historical Ciphers",
+    "Known",
+    "Playfair Cipher",
+    "Random Substitution Cipher",
+    "Vigenère Cipher"
+  ]
 }

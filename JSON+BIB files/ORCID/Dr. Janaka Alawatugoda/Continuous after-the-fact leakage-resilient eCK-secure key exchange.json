@@ -1,21 +1,27 @@
 {
-    "type": "article",
-    "title": "Continuous after-the-fact leakage-resilient eCK-secure key exchange",
-    "abstract": "",
-    "year": "2015",
-    "Authors": [
-        "Alawatugoda, J.",
-        "Stebila, D.",
-        "Boyd, C."
-    ],
-    "venue": {
-        "journal": "Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)",
-        "volume": "9496"
-    },
-    "DOI": "",
-    "pdf": "",
-    "pblication url": "",
-    "presentation": "",
-    "code": "",
-    "tags": ""
+  "type": "article",
+  "title": "Continuous after-the-fact leakage-resilient eCK-secure key exchange",
+  "abstract": "Security models for two-party authenticated key exchange (AKE) protocols have developed over time to capture the security of AKE protocols even when the adversary learns certain secret values. Increased granularity of security can be modelled by considering partial leakage of secrets in the manner of models for leakage-resilient cryptography, designed to capture side-channel attacks. In this work, we use the strongest known partial-leakage-based security model for key exchange protocols, namely continuous after-the-fact leakage eCK (CAFL-eCK) model. We resolve an open problem by constructing the first concrete two-pass leakage-resilient key exchange protocol that is secure in the CAFL-eCK model. ",
+  "year": "2015",
+  "Authors": ["Alawatugoda, J.", "Stebila, D.", "Boyd, C."],
+  "venue": {
+    "journal": "Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)",
+    "volume": "9496"
+  },
+  "DOI": "10.1007/978-3-319-27239-9_17",
+  "pdf": "",
+  "publication url": "http://www.scopus.com/inward/record.url?eid=2-s2.0-84951873341&partnerID=MN8TOARS",
+  "presentation": "",
+  "code": "",
+  "tags": [
+    "After-the-fact leakage",
+    "Key exchange protocols",
+    "Leakage-resilience",
+    "Security models",
+    "Side-channel attacks",
+    "Public Key Encryption",
+    "Related-Key Attack",
+    "Leakage",
+    "Cryptography"
+  ]
 }

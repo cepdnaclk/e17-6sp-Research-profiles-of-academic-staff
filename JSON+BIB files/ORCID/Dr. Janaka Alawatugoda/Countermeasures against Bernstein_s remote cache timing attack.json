@@ -1,20 +1,21 @@
 {
-    "type": "article",
-    "title": "Countermeasures against Bernstein{'}s remote cache timing attack",
-    "abstract": "",
-    "year": "2011",
-    "Authors": [
-        "Alawatugoda, J.",
-        "Jayasinghe, D.",
-        "Ragel, R."
-    ],
-    "venue": {
-        "journal": "2011 6th International Conference on Industrial and Information Systems, ICIIS 2011 - Conference Proceedings"
-    },
-    "DOI": "",
-    "pdf": "",
-    "pblication url": "",
-    "presentation": "",
-    "code": "",
-    "tags": ""
+  "type": "article",
+  "title": "Countermeasures against Bernstein{'}s remote cache timing attack",
+  "abstract": "Cache timing attack is a type of side channel attack where the leaking timing information due to the cache behaviour of a crypto system is used by an attacker to break the system. Advanced Encryption Standard (AES) was considered a secure encryption standard until 2005 when Daniel Bernstein claimed that the software implementation of AES is vulnerable to cache timing attack. Bernstein demonstrated a remote cache timing attack on a software implementation of AES. The original AES implementation can methodically be altered to prevent the cache timing attack by hiding the natural cache-timing pattern during the encryption while preserving its semantics. The alternations while preventing the attack should not make the implementation very slow. In this paper, we report outcomes of our experiments on designing and implementing a number of possible countermeasures.",
+  "year": "2011",
+  "Authors": ["Alawatugoda, J.", "Jayasinghe, D.", "Ragel, R."],
+  "venue": {
+    "journal": "2011 6th International Conference on Industrial and Information Systems, ICIIS 2011 - Conference Proceedings"
+  },
+  "DOI": " 10.1109/ICIINFS.2011.6038038",
+  "pdf": "",
+  "publication url": "http://www.scopus.com/inward/record.url?eid=2-s2.0-80054889643&partnerID=MN8TOARS",
+  "presentation": "",
+  "code": "",
+  "tags": [
+    "Advanced Encryption Standard",
+    "Cache Timing Attack",
+    "Preventing Remote Attacks",
+    "Side Channel Attack"
+  ]
 }

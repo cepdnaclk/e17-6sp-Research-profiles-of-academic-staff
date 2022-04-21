@@ -1,23 +1,31 @@
 {
-    "type": "article",
-    "title": "Implementing a secure key exchange protocol for OpenSSL",
-    "abstract": "",
-    "year": "2018",
-    "Authors": [
-        "Alawatugoda, J.",
-        "Vivekaanathan, S.",
-        "Peiris, N.",
-        "Wickramasinghe, C.",
-        "Wen, C.C."
-    ],
-    "venue": {
-        "journal": "International Journal on Advanced Science, Engineering and Information Technology",
-        "volume": "8"
-    },
-    "DOI": "",
-    "pdf": "",
-    "pblication url": "",
-    "presentation": "",
-    "code": "",
-    "tags": ""
+  "type": "article",
+  "title": "Implementing a secure key exchange protocol for OpenSSL",
+  "abstract": "Security models have been developed over time to examine the security of two-party authenticated key exchange protocols. In 2007, a reasonably strong security model for key exchange protocols has been proposed, namely extended Canetti-Krawczyk model (eCK model), addressing wide range of real-world attack scenarios. They constructed a protocol called NAXOS, that is proven secure in the eCK model. In order to satisfy the eCK security, NAXOS protocol uses a hash function to combine the ephemeral key with the long-term secret key, which is often called as NAXOS trick. However, for the NAXOS trick based protocols, the way of leakage modelled in the eCK model leads to an unnatural assumption of leak-free computation of the hash function. In 2015, Alawatugoda, Stebila and Boyd presented a secure and NAXOS trick key exchange protocol, namely protocol P1. In this work, we implement the protocol P1 to be used with the widely-used OpenSSL cryptographic library. OpenSSL implementations are widely used with the real-world security protocol suites, particularly Security Socket Layer and Transport Layer Security. According to our knowledge, this is the first implementation of an eCK-secure protocol for the OpenSSL library. Thus, we open up the direction to use the recent advancements of cryptography for real-world Internet communication.",
+  "year": "2018",
+  "Authors": [
+    "Alawatugoda, J.",
+    "Vivekaanathan, S.",
+    "Peiris, N.",
+    "Wickramasinghe, C.",
+    "Wen, C.C."
+  ],
+  "venue": {
+    "journal": "International Journal on Advanced Science, Engineering and Information Technology",
+    "volume": "8"
+  },
+  "DOI": " 10.18517/ijaseit.8.5.5046",
+  "pdf": "",
+  "publication url": "http://www.scopus.com/inward/record.url?eid=2-s2.0-85056284097&partnerID=MN8TOARS",
+  "presentation": "",
+  "code": "",
+  "tags": [
+    "Authenticated key exchange",
+    "ECK mode",
+    "OpenSSL",
+    "Secure key",
+    "Security models",
+    "Authentication",
+    "Password"
+  ]
 }
