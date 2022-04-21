@@ -1,19 +1,19 @@
 {
-    "type": "inproceedings",
-    "title": "Data centric trust evaluation and prediction framework for {IOT}",
-    "book title": "2017 {ITU} Kaleidoscope: Challenges for a Data-Driven Society ({ITU} K)",
-    "abstract": "",
-    "year": "2017",
-    "Authors": [
-        "Jayasinghe, Upul",
-        "Otebolaku, Abayomi",
-        "Um, Tai-Won",
-        "Lee, Gyu Myoung"
-    ],
-    "DOI": "",
-    "pdf": "",
-    "pblication url": "https://doi.org/10.23919%2Fitu-wt.2017.8246999",
-    "presentation": "",
-    "code": "",
-    "tags": ""
+  "type": "inproceedings",
+  "title": "Data centric trust evaluation and prediction framework for {IOT}",
+  "book title": "2017 {ITU} Kaleidoscope: Challenges for a Data-Driven Society ({ITU} K)",
+  "abstract": "Application of trust principals in internet of things (IoT) has allowed to provide more trustworthy services among the corresponding stakeholders. The most common method of assessing trust in IoT applications is to estimate trust level of the end entities (entity-centric) relative to the trustor. In these systems, trust level of the data is assumed to be the same as the trust level of the data source. However, most of the IoT based systems are data centric and operate in dynamic environments, which need immediate actions without waiting for a trust report from end entities. We address this challenge by extending our previous proposals on trust establishment for entities based on their reputation, experience and knowledge, to trust estimation of data items [1-3]. First, we present a hybrid trust framework for evaluating both data trust and entity trust, which will be enhanced as a standardization for future data driven society. The modules including data trust metric extraction, data trust aggregation, evaluation and prediction are elaborated inside the proposed framework. Finally, a possible design model is described to implement the proposed ideas.",
+  "year": "2017",
+  "Authors": [
+    "Jayasinghe, Upul",
+    "Otebolaku, Abayomi",
+    "Um, Tai-Won",
+    "Lee, Gyu Myoung"
+  ],
+  "DOI": "10.23919/itu-wt.2017.8246999",
+  "pdf": "",
+  "publication url": "https://doi.org/10.23919%2Fitu-wt.2017.8246999",
+  "presentation": "",
+  "code": "",
+  "tags": ["'Data Trust", "Collaborative Filtering", "Ensemble Learning"]
 }

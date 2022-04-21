@@ -1,17 +1,21 @@
 {
-    "type": "inproceedings",
-    "title": "Trust-Based Data Controller for Personal Information Management",
-    "book title": "2018 International Conference on Innovations in Information Technology (IIT)",
-    "abstract": "",
-    "year": "2018",
-    "Authors": [
-        "Jayasinghe, U.",
-        "Lee, G. M.",
-        "MacDermott, A."
-    ],
-    "DOI": "",
-    "pdf": "",
-    "presentation": "",
-    "code": "",
-    "tags": ""
+  "type": "inproceedings",
+  "title": "Trust-Based Data Controller for Personal Information Management",
+  "book title": "2018 International Conference on Innovations in Information Technology (IIT)",
+  "abstract": "In today's data-driven digital economy, user-related information works as oil to fuel the state of art applications and services. Consumers, who use these services, provide personal information to service providers, intentionally or unintentionally and often without considering their trustworthiness. However, this personal information often reveals one's identity and may lead users to face unexpected outcomes, ranging from uninvited advertisements to identity theft. To regulate such issues, the new General Data Protection Regulation (GDPR) act was introduced by the European Union in May 2018. As defined by the act, the data controller plays an important role in determining the purposes, conditions and the means of processing data without compromising the user identities for malicious intentions. Therefore, in this paper, we propose a trust-based data controller in which an intermediate authority named trust manager recommends preferable actions towards the data controller on preserving the privacy of the users in accordance with the GDPR act.",
+  "year": "2018",
+  "Authors": ["Jayasinghe, U.", "Lee, G. M.", "MacDermott, A."],
+  "DOI": "10.1109/INNOVATIONS.2018.8605979",
+  "pdf": "",
+  "presentation": "",
+  "publication url": "https://ieeexplore.ieee.org/document/8605979",
+  "code": "",
+  "tags": [
+    "GDPR",
+    "PII",
+    "Data Controllers",
+    "Data Processors",
+    "Privacy",
+    "Trust management"
+  ]
 }

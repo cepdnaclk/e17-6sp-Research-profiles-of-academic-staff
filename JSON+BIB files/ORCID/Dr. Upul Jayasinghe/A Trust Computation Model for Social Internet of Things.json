@@ -1,19 +1,27 @@
 {
-    "type": "inproceedings",
-    "title": "{RpR}: A Trust Computation Model for Social Internet of Things",
-    "book title": "2016 Intl {IEEE} Conferences on Ubiquitous Intelligence {\\&} Computing, Advanced and Trusted Computing, Scalable Computing and Communications, Cloud and Big Data Computing, Internet of People, and Smart World Congress ({UIC}/{ATC}/{ScalCom}/{CBDCom}/{IoP}/{SmartWorld})",
-    "abstract": "",
-    "year": "2016",
-    "Authors": [
-        "Jayasinghe, Upul",
-        "Truong, Nguyen B.",
-        "Lee, Gyu Myoung",
-        "Um, Tai-Won"
-    ],
-    "DOI": "",
-    "pdf": "",
-    "pblication url": "https://doi.org/10.1109%2Fuic-atc-scalcom-cbdcom-iop-smartworld.2016.0146",
-    "presentation": "",
-    "code": "",
-    "tags": ""
+  "type": "inproceedings",
+  "title": "{RpR}: A Trust Computation Model for Social Internet of Things",
+  "book title": "2016 Intl {IEEE} Conferences on Ubiquitous Intelligence {\\&} Computing, Advanced and Trusted Computing, Scalable Computing and Communications, Cloud and Big Data Computing, Internet of People, and Smart World Congress ({UIC}/{ATC}/{ScalCom}/{CBDCom}/{IoP}/{SmartWorld})",
+  "abstract": "Social Internet of Things (SIoT) is an evolutionary idea which combines traditional IoT models with social network paradigms. Objects in SIoT formulate social relationships with other trusted objects according to the relationships of their owners which deliver trustworthy services on request. From our trust platform concept to identify vital trust metrics, attributes, we propose a Recommendations plus Reputations based Trust Computational Model (RpR) that enables objects in SIoT to build associations in a trustworthy manner. A numerical model is developed to estimate trust of each object based on Recommendation, Reputation parameters. Next, both estimates are merged together, a robust algorithm is proposed. Finally, we demonstrate, validate the usefulness of RpR over prior approaches through simulations, analysis. The aim of our approach is to facilitate accurate modeling of trustworthiness in distributed SIoT environments.",
+  "year": "2016",
+  "Authors": [
+    "Jayasinghe, Upul",
+    "Truong, Nguyen B.",
+    "Lee, Gyu Myoung",
+    "Um, Tai-Won"
+  ],
+  "DOI": "10.1109/uic-atc-scalcom-cbdcom-iop-smartworld.2016.0146",
+  "pdf": "",
+  "publication url": "https://doi.org/10.1109%2Fuic-atc-scalcom-cbdcom-iop-smartworld.2016.0146",
+  "presentation": "",
+  "code": "",
+  "tags": [
+    "Social Networks",
+    "SIoT",
+    "Trust Computation",
+    "Trust Model",
+    "Knowledge",
+    "Reputation",
+    "Recommendation"
+  ]
 }

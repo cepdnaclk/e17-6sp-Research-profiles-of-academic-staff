@@ -1,20 +1,20 @@
 {
-    "type": "inproceedings",
-    "title": "Security Vulnerabilities of the Cisco {IOS} Implementation of the {MPLS} Transport Profile",
-    "book title": "Proceedings of the 2nd Workshop on Smart Energy Grid Security - {SEGS} {\\textquotesingle}14",
-    "abstract": "",
-    "year": "2014",
-    "Authors": [
-        "Jayasinghe, Upul",
-        "Barreto, Sergio",
-        "Popovic, Miroslav",
-        "Tesfay, Teklemariam T.",
-        "Boudec, Jean-Yves Le"
-    ],
-    "DOI": "",
-    "pdf": "",
-    "pblication url": "https://doi.org/10.1145%2F2667190.2667197",
-    "presentation": "",
-    "code": "",
-    "tags": ""
+  "type": "inproceedings",
+  "title": "Security Vulnerabilities of the Cisco {IOS} Implementation of the {MPLS} Transport Profile",
+  "book title": "Proceedings of the 2nd Workshop on Smart Energy Grid Security - {SEGS} {\\textquotesingle}14",
+  "abstract": "We are interested in the security of the MPLS Transport Profile (MPLS-TP), in the context of smart-grid communication networks. The security guidelines of the MPLS-TP standards are written in a complex and indirect way, which led us to pose as hypothesis that vendor solutions might not implement them satisfactorily. To test this hypothesis, we investigated the Cisco implementation of two MPLS-TP OAM (Operations, Administration, and Maintenance) protocols: bidirectional forwarding detection (BFD), used to detect failures in label-switched paths (LSPs) and protection state coordination (PSC), used to coordinate protection switching. Critical smart grid applications, such as protection and control, rely on the protection switching feature controlled by BFD and PSC. We did find security issues with this implementation. We implemented a testbed with eight nodes that run the MPLS-TP enabled Cisco IOS; we demonstrated that an attacker who has access to only one cable (for two attacks) or two cables (for one attack) is able to harm the network at several points (e.g., disabling both working and protection LSPs). This occurred in spite of us implementing the security guidelines that are available from Cisco for IOS and MPLS-TP. The attacks use forged BFD or PSC messages, which induce a label-edge router (LER) into believing false information about an LSP. In one attack, the LER disables the operational LSP; in another attack, the LER continues to believe that a physically destroyed LSP is up and running; in yet another attack, both operational and backup LSPs are brought down. Our findings suggest that the MPLS-TP standard should be more explicit when it comes to security. For example, to thwart the attacks revealed here, it should mandate either hop by hop authentication (such as MACSec) at every node, or an ad-hoc authentication mechanism for BFD and PSC.",
+  "year": "2014",
+  "Authors": [
+    "Jayasinghe, Upul",
+    "Barreto, Sergio",
+    "Popovic, Miroslav",
+    "Tesfay, Teklemariam T.",
+    "Boudec, Jean-Yves Le"
+  ],
+  "DOI": "10.1145/2667190.2667197",
+  "pdf": "",
+  "publication url": "https://doi.org/10.1145%2F2667190.2667197",
+  "presentation": "",
+  "code": "",
+  "tags": ["Security Vulnerabilities", "Cisco", "IOS Implementation"]
 }

@@ -1,22 +1,28 @@
 {
-    "type": "article",
-    "title": "Impact of antenna correlation on the performance of partial relay selection",
-    "abstract": "",
-    "year": "2012",
-    "Authors": [
-        "Ferdinand, Nuwan S",
-        "Jayasinghe, Upul",
-        "Rajatheva, Nandana",
-        "Latva-aho, Matti"
-    ],
-    "venue": {
-        "journal": "{EURASIP} Journal on Wireless Communications and Networking",
-        "volume": "2012"
-    },
-    "DOI": "",
-    "pdf": "",
-    "pblication url": "https://doi.org/10.1186%2F1687-1499-2012-261",
-    "presentation": "",
-    "code": "",
-    "tags": ""
+  "type": "article",
+  "title": "Impact of antenna correlation on the performance of partial relay selection",
+  "abstract": "Antenna correlation is generally viewed as an obstacle to realize the desired performance of a wireless system. In this article, we investigate the performance of partial relay selection in the presence of antenna correlation. We consider both channel state information (csi)-assisted and fixed gain amplify-and-forward (AF) relay schemes. The source and the destination are equipped with multiple antennas communicating via the best first hop signal-to-noise ratio (SNR) relay. We derived the closed form expression for outage probability, average symbol error rate (SER) for both schemes. Further, an exact expression is derived for the ergodic capacity in the csi-assisted relay case and an approximated expression is considered for the fixed gain case. Moreover, we provide simple asymptotic results and show that the diversity order of the system remains unchanged with the effect of antenna correlation for both types of relay schemes.",
+  "year": "2012",
+  "Authors": [
+    "Ferdinand, Nuwan S",
+    "Jayasinghe, Upul",
+    "Rajatheva, Nandana",
+    "Latva-aho, Matti"
+  ],
+  "venue": {
+    "journal": "{EURASIP} Journal on Wireless Communications and Networking",
+    "volume": "2012"
+  },
+  "DOI": " 10.1186/1687-1499-2012-261",
+  "pdf": "",
+  "publication url": "https://doi.org/10.1186%2F1687-1499-2012-261",
+  "presentation": "",
+  "code": "",
+  "tags": [
+    "Antenna Correlation",
+    "Partial Relay Selection",
+    "Ergodic Capacity",
+    "Outage Probability",
+    "Relay Scheme"
+  ]
 }
