@@ -2,7 +2,7 @@
     "type": "inproceedings",
     "title": "Genetic algorithm based cost optimization to integrate a community based wind turbine while considering smart appliances scheduling",
     "book title": "2017 {IEEE} International Conference on Industrial and Information Systems, {ICIIS} 2017, Peradeniya, Sri Lanka, December 15-16, 2017",
-    "abstract": "",
+    "abstract": "A coordinated approach capable of optimal scheduling of the responsive residential appliances to minimize the total cost of a community based scheme comprises a wind farm is suggested in this study. Here demand side loads are managed by optimizing smart appliances' operating time to minimize the cost to the community using a genetic algorithm based method. The cost optimization is obtained for different test cases using the algorithm implemented and results are discussed.",
     "year": "2017",
     "Authors": [
         "Wijethunge, A. H.",
@@ -11,10 +11,12 @@
         "Samarakoon, Kamalanath",
         "Polpitiya, A."
     ],
-    "DOI": "",
+    "DOI": "10.1109/ICIINFS.2017.8300374",
     "pdf": "",
-    "pblication url": "https://doi.org/10.1109/ICIINFS.2017.8300374",
+    "publication url": "https://doi.org/10.1109/ICIINFS.2017.8300374",
     "presentation": "",
     "code": "",
-    "tags": ""
+    "tags": ["Schedules" , "Genetic algorithms" , "Optimization" ,"Wind power generation" , "Power demand", "Wind turbines" ,
+            "Mathematical model", "costing" , "demand side management" , "domestic appliances" , "genetic algorithms", "scheduling"
+            ,"wind power plants"]
 }

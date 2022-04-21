@@ -21,7 +21,7 @@
     ],
     "DOI": "10.1145/1629575.1629596",
     "pdf": "https://dl.acm.org/doi/pdf/10.1145/1629575.1629596",
-    "pblication url": "https://doi.org/10.1145/1629575.1629596",
+    "publication url": "https://doi.org/10.1145/1629575.1629596",
     "presentation": "",
     "code": "",
     "tags": ["Isabelle/HOL", "L4", "microkernel", "seL4", "Operating Systems", "Software Engineering"]

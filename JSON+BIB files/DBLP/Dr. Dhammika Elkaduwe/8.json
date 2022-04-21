@@ -11,7 +11,7 @@
     ],
     "DOI": "10.1145/1435458.1435465",
     "pdf": "https://dl.acm.org/doi/pdf/10.1145/1435458.1435465",
-    "pblication url": "https://doi.org/10.1145/1435458.1435465",
+    "publication url": "https://doi.org/10.1145/1435458.1435465",
     "presentation": "",
     "code": "",
     "tags": ["isolation", "seL4", "memory management", "embedded systems", "microkernels"]

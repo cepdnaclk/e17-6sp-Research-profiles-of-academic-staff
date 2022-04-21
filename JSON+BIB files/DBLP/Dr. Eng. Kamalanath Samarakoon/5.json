@@ -1,7 +1,7 @@
 {
     "type": "article",
     "title": "Investigation of Domestic Load Control to Provide Primary Frequency Response Using Smart Meters",
-    "abstract": "",
+    "abstract": "The ability of smart meters to control domestic demand during system emergencies was investigated. Direct load control through the smart meters is unlikely to be able to provide primary frequency response because of communication delays. An alternative load control scheme that used a local frequency measurement from the smart meters was investigated. An experimental rig was developed, using commercially available components, to test and demonstrate the load control scheme. The amount of load to be controlled to limit the frequency drop of the Great Britain system to a set of minimum allowable frequencies was found using a simulation program. Operating speeds and the limitations of the components of the load controller in providing primary response are discussed. It is shown that if smart meters are to play any role in primary response then the speed at which the system frequency is measured must be increased very considerably (from around 3 s to 200 ms). This has important implications as the U.K. is now finalizing the specification for more than 20 million smart electricity meters that will be installed by 2020.",
     "year": "2012",
     "Authors": [
         "Samarakoon, Kamalanath",
@@ -12,10 +12,12 @@
         "journal": "{IEEE} Trans. Smart Grid",
         "volume": "3"
     },
-    "DOI": "",
+    "DOI": "10.1109/TSG.2011.2173219",
     "pdf": "",
-    "pblication url": "https://doi.org/10.1109/TSG.2011.2173219",
+    "publication url": "https://doi.org/10.1109/TSG.2011.2173219",
     "presentation": "",
     "code": "",
-    "tags": ""
+    "tags": ["Switches", "Frequency control","Load flow control",  "Frequency response",
+    "Frequency conversion","Time frequency analysis", "delays","domestic appliances",
+    "frequency response","load regulation","power meters","supply and demand"]
 }

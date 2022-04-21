@@ -14,7 +14,7 @@
     },
     "DOI": "10.48550/arXiv.1403.7293",
     "pdf": "https://arxiv.org/ftp/arxiv/papers/1403/1403.7293.pdf",
-    "pblication url": "http://arxiv.org/abs/1403.7293",
+    "publication url": "http://arxiv.org/abs/1403.7293",
     "presentation": "",
     "code": "",
     "tags": ["side channel", "cache timing attack", "constant time encryption "]

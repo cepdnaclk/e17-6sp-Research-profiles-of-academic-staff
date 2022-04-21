@@ -14,7 +14,7 @@
     },
     "DOI": "10.48550/arXiv.1412.7789",
     "pdf": "https://arxiv.org/ftp/arxiv/papers/1412/1412.7789.pdf",
-    "pblication url": "http://arxiv.org/abs/1412.7789",
+    "publication url": "http://arxiv.org/abs/1412.7789",
     "presentation": "",
     "code": "",
     "tags": ["GPU", "CUDA", "CPU", "Aho-Corasick algorithm", "String matching"]
