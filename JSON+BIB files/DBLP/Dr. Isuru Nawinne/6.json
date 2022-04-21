@@ -2,7 +2,7 @@
     "type": "inproceedings",
     "title": "Hardware-based fast exploration of cache hierarchies in application specific MPSoCs",
     "book title": "Design, Automation {\\&} Test in Europe Conference {\\&} Exhibition, {DATE} 2014, Dresden, Germany, March 24-28, 2014",
-    "abstract": "",
+    "abstract": "Multi-level caches are widely used to improve the memory access speed of multiprocessor systems. Deciding on a suitable set of cache memories for an application specific embedded system's memory hierarchy is a tedious problem, particularly in the case of MPSoCs. To accurately determine the number of hits and misses for all the configurations in the design space of an MPSoC, researchers extract the trace first using Instruction set simulators and then simulate using a software simulator. Such simulations take several hours to months. We propose a novel method based on specialized hardware which can quickly simulate the design space of cache configurations for a shared memory multiprocessor system on an FPGA, by analyzing the memory traces and calculating the cache hits and misses simultaneously. We demonstrate that our simulator can explore the cache design space of a quad-core system with private L 1 caches and a shared L 2 cache, over a range of standard benchmarks, taking as less as 0.106 seconds per million memory accesses, which is up to 456 times faster than the fastest known software based simulator. Since we emulate the program and analyze memory traces simultaneously, we eliminate the need to extract multiple memory access traces prior to simulation, which saves a significant amount of time during the design stage.",
     "year": "2014",
     "Authors": [
         "Nawinne, Isuru",
@@ -10,10 +10,11 @@
         "Javaid, Haris",
         "Parameswaran, Sri"
     ],
-    "DOI": "",
+    "DOI": "10.7873/DATE.2014.296",
     "pdf": "",
-    "pblication url": "https://doi.org/10.7873/DATE.2014.296",
+    "publication url": "https://doi.org/10.7873/DATE.2014.296",
     "presentation": "",
     "code": "",
-    "tags": ""
+    "tags": ["Space exploration","Hardware", "Field programmable gate arrays","Software","Energy consumption","Real-time systems",
+    "Analytical models","cache storage","shared memory systems","system-on-chip"]
 }
