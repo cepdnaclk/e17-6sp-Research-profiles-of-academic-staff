@@ -1,7 +1,7 @@
 {
     "type": "article",
     "title": "seL4: formal verification of an operating-system kernel",
-    "abstract": "",
+    "abstract": "We report on the formal, machine-checked verification of the seL4 microkernel from an abstract specification down to its C implementation. We assume correctness of compiler, assembly code, hardware, and boot code. seL4 is a third-generation microkernel of L4 provenance, comprising 8700 lines of C and 600 lines of assembler. Its performance is comparable to other high-performance L4 kernels. We prove that the implementation always strictly follows our high-level abstract specification of kernel behavior. This encompasses traditional design and implementation safety properties such as that the kernel will never crash, and it will never perform an unsafe operation. It also implies much more: we can predict precisely how the kernel will behave in every possible situation.",
     "year": "2010",
     "Authors": [
         "Klein, Gerwin",
@@ -22,10 +22,10 @@
         "journal": "Commun. {ACM}",
         "volume": "53"
     },
-    "DOI": "",
-    "pdf": "",
+    "DOI": "10.1145/1743546.1743574",
+    "pdf": "https://dl.acm.org/doi/pdf/10.1145/1743546.1743574",
     "pblication url": "https://doi.org/10.1145/1743546.1743574",
     "presentation": "",
     "code": "",
-    "tags": ""
+    "tags": ["Software Engineering" , "Reliability" , "Software" , "Cross-computing", "Theory of computation"]
 }

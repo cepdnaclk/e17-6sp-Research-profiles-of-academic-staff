@@ -1,18 +1,18 @@
 {
     "type": "inproceedings",
     "title": "Kernel design for isolation and assurance of physical memory",
-    "book title": "Proceedings of the 1st Workshop on Isolation and Integration in Embedded Systems, {IIES} '08, Glasgow, Scotland, April 1, 2008",
-    "abstract": "",
+    "book title": "Proceedings of the 1st Workshop on Isolation and Integration in Embedded Systems, {IIES} '08, Glasgow, Scotland, April 1, 2008",    
+    "abstract": "Embedded systems are evolving into increasingly complex software systems. One approach to managing this software complexity is to divide the system into smaller, tractable components and provide strong isolation guarantees between them. This paper focuses on one aspect of the system’s behaviour that is critical to any such guarantee: management of physical memory resources. We present the design of a kernel that has formally demonstrated the ability to make strong isolation guarantees of physical memory. We also present the macro-level performance characteristics of a kernel implementing the proposed design.",
     "year": "2008",
     "Authors": [
         "Elkaduwe, Dhammika",
         "Derrin, Philip",
         "Elphinstone, Kevin"
     ],
-    "DOI": "",
-    "pdf": "",
+    "DOI": "10.1145/1435458.1435465",
+    "pdf": "https://dl.acm.org/doi/pdf/10.1145/1435458.1435465",
     "pblication url": "https://doi.org/10.1145/1435458.1435465",
     "presentation": "",
     "code": "",
-    "tags": ""
+    "tags": ["isolation", "seL4", "memory management", "embedded systems", "microkernels"]
 }

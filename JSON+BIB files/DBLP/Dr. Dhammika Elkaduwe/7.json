@@ -1,8 +1,8 @@
 {
     "type": "inproceedings",
     "title": "seL4: formal verification of an {OS} kernel",
-    "book title": "Proceedings of the 22nd {ACM} Symposium on Operating Systems Principles 2009, {SOSP} 2009, Big Sky, Montana, USA, October 11-14, 2009",
-    "abstract": "",
+    "book title": "Proceedings of the 22nd {ACM} Symposium on Operating Systems Principles 2009, {SOSP} 2009, Big Sky, Montana, USA, October 11-14, 2009", 
+    "abstract": "Complete formal verification is the only known way to guarantee that a system is free of programming errors. We present our experience in performing the formal, machine-checked verification of the seL4 microkernel from an abstract specification down to its C implementation. We assume correctness of compiler, assembly code, and hardware, and we used a unique design approach that fuses formal and operating systems techniques. To our knowledge, this is the first formal proof of functional correctness of a complete, general-purpose operating-system kernel. Functional correctness means here that the implementation always strictly follows our high-level abstract specification of kernel behaviour. This encompasses traditional design and implementation safety properties such as the kernel will never crash, and it will never perform an unsafe operation. It also proves much more: we can predict precisely how the kernel will behave in every possible situation. seL4, a third-generation microkernel of L4 provenance, comprises 8,700 lines of C code and 600 lines of assembler. Its performance is comparable to other high-performance L4 kernels. ",
     "year": "2009",
     "Authors": [
         "Klein, Gerwin",
@@ -19,10 +19,10 @@
         "Tuch, Harvey",
         "Winwood, Simon"
     ],
-    "DOI": "",
-    "pdf": "",
+    "DOI": "10.1145/1629575.1629596",
+    "pdf": "https://dl.acm.org/doi/pdf/10.1145/1629575.1629596",
     "pblication url": "https://doi.org/10.1145/1629575.1629596",
     "presentation": "",
     "code": "",
-    "tags": ""
+    "tags": ["Isabelle/HOL", "L4", "microkernel", "seL4", "Operating Systems", "Software Engineering"]
 }
