@@ -1,7 +1,7 @@
 {
     "type": "article",
     "title": "Constant time encryption as a countermeasure against remote cache timing attacks",
-    "abstract": "",
+    "abstract": "Rijndael was standardized in 2001 by National Institute of Standard and Technology as the Advanced Encryption Standard (AES). AES is still being used to encrypt financial, military and even government confidential data. In 2005, Bernstein illustrated a remote cache timing attack on AES using the client-server architecture and therefore proved a side channel in its software implementation. Over the years, a number of countermeasures have been proposed against cache timing attacks both using hardware and software. Although the software based countermeasures are flexible and easy to deploy, most of such countermeasures are vulnerable to statistical analysis. In this paper, we propose a novel software based countermeasure against cache timing attacks, known as constant time encryption, which we believe is secure against statistical analysis. The countermeasure we proposed performs rescheduling of instructions such that the encryption rounds will consume constant time independent of the cache hits and misses. Through experiments, we prove that our countermeasure is secure against Bernstein’s cache timing attack.", 
     "year": "2014",
     "Authors": [
         "Jayasinghe, Darshana",
@@ -12,10 +12,10 @@
         "journal": "CoRR",
         "volume": "abs/1403.7293"
     },
-    "DOI": "",
-    "pdf": "",
+    "DOI": "10.48550/arXiv.1403.7293",
+    "pdf": "https://arxiv.org/ftp/arxiv/papers/1403/1403.7293.pdf",
     "pblication url": "http://arxiv.org/abs/1403.7293",
     "presentation": "",
     "code": "",
-    "tags": ""
+    "tags": ["side channel", "cache timing attack", "constant time encryption "]
 }
