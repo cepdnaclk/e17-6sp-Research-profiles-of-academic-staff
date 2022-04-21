@@ -1,0 +1,27 @@
+{
+  "type": "article",
+  "title": "Leakage-resilient storage scheme for cryptographic applications",
+  "abstract": "Since the side-channel attacks arise as a huge threat for cryptographic schemes than previously realized, it is necessary to implement proven-secure leakage-resilient cryptographic schemes and use them for real-world purposes. In this work our effort is to implement two leakage-resilient cryptographic schemes, a leakage-resilient storage scheme and a refreshing protocol, which have been proven-secure and accepted by the cryptographic community since 2011 (ASIACRYPT 2011). Our aim is to open up the direction for implementing the useful leakage-resilient cryptographic schemes for future usage. ",
+  "year": "2017",
+  "Authors": [
+    "Alawatugoda, J.",
+    "Ragel, R.",
+    "Eranga, D.",
+    "Jayanath, N.",
+    "Somathilaka, C."
+  ],
+  "venue": {
+    "journal": "2016 IEEE International Conference on Information and Automation for Sustainability: Interoperable Sustainable Smart Systems for Next Generation, ICIAfS 2016"
+  },
+  "DOI": "10.1109/ICIAFS.2016.7946548",
+  "pdf": "",
+  "publication url": "http://www.scopus.com/inward/record.url?eid=2-s2.0-85022036743&partnerID=MN8TOARS",
+  "presentation": "",
+  "code": "",
+  "tags": [
+    "cryptography",
+    "leakage resilience",
+    "side-channels",
+    "storage schemes"
+  ]
+}

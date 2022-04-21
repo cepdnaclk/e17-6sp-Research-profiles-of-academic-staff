@@ -1,0 +1,32 @@
+{
+  "type": "article",
+  "title": "{BAT}{\\textemdash}Block Analytics Tool Integrated with Blockchain Based {IoT} Platform",
+  "abstract": "The Internet of Things (IoT) is the novel paradigm of connectivity and the driving force behind state-of-the-art applications and services. However, the exponential growth of the number of IoT devices and services, their distributed nature, and scarcity of resources has increased the number of security and privacy concerns ranging from the risks of unauthorized data alterations to the potential discrimination enabled by data analytics over sensitive information. Thus, a blockchain based IoT-platform is introduced to address these issues. Built upon the tamper-proof architecture, the proposed access management mechanisms ensure the authenticity and integrity of data. Moreover, a novel approach called Block Analytics Tool (BAT), integrated with the platform is proposed to analyze and make predictions on data stored on the blockchain. BAT enables the data-analysis applications to be developed using the data stored in the platform in an optimized manner acting as an interface to off-chain processing. A pharmaceutical supply chain is used as the use case scenario to show the functionality of the proposed platform. Furthermore, a model to forecast the demand of the pharmaceutical drugs is investigated using a real-world data set to demonstrate the functionality of BAT. Finally, the performance of BAT integrated with the platform is evaluated.",
+  "year": "2020",
+  "Authors": [
+    "Edussuriya, Chathurangi",
+    "Vithanage, Kasun",
+    "Bandara, Namila",
+    "Alawatugoda, Janaka",
+    "Sandirigama, Manjula",
+    "Jayasinghe, Upul",
+    "Shone, Nathan",
+    "Lee, Gyu Myoung"
+  ],
+  "venue": {
+    "journal": "Electronics",
+    "volume": "9"
+  },
+  "DOI": "10.3390/electronics9091525",
+  "pdf": "",
+  "publication url": "https://www.mdpi.com/2079-9292/9/9/1525",
+  "presentation": "",
+  "code": "",
+  "tags": [
+    "IoT",
+    "blockchain",
+    "data analytics",
+    "smart contracts",
+    "access management"
+  ]
+}

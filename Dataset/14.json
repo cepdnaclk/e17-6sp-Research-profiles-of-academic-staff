@@ -1,0 +1,24 @@
+{
+  "type": "inproceedings",
+  "title": "Application of a leakage based precoding scheme to mitigate intrinsic interference in {FBMC}",
+  "book title": "2013 {IEEE} International Conference on Communications ({ICC})",
+  "abstract": "Orthogonal frequency division multiplexing with offset QAM (OFDM/OQAM) modulation scheme, more commonly known as filter bank multicarrier (FBMC), has received greater attention recently, due to its spectral efficiency compared to standard OFDM. However, intrinsic interference in FBMC causes a negative effect on the system performance depending on the channel condition. Hence, in this paper, we analyze the interference in OFDM/OQAM systems and introduce a preceder based on signal-to-leakage-plus-noise ratio (SLNR) to overcome the effect of interference on the system. First we implement the system in a more efficient way using inverse fast Fourier transform (IFFT). Then based on that model, the precoding matrix is generated. Finally through simulation and analysis, reduction of interference and improvement of performance are investigated.",
+  "year": "2013",
+  "Authors": ["Jayasinghe, Upul", "Rajatheva, Nandana", "Latva-aho, Matti"],
+  "DOI": "10.1109/icc.2013.6655423",
+  "pdf": "",
+  "publication url": "https://doi.org/10.1109%2Ficc.2013.6655423",
+  "presentation": "",
+  "code": "",
+  "tags": [
+    "FBMC",
+    "OFDM/OQAM",
+    "MCM",
+    "D7FT",
+    "SINK",
+    "SLNR",
+    "SNR",
+    "Equalization",
+    "BER"
+  ]
+}

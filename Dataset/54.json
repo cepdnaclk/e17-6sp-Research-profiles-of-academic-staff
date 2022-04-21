@@ -1,0 +1,24 @@
+{
+    "type": "article",
+    "title": "Non-contact Infant Sleep Apnea Detection", 
+    "abstract": "Sleep apnea is a breathing disorder where a person repeatedly stops breathing in sleep. Early detection is crucial for infants because it might bring long term adversities. The existing accurate detection mechanism (pulse oximetry) is a skin contact measurement. The existing non-contact mechanisms (acoustics, video processing) are not accurate enough. This paper presents a novel algorithm for the detection of sleep apnea with video processing. The solution is non-contact, accurate and lightweight enough to run on a single board computer. The paper discusses the accuracy of the algorithm on real data, advantages of the new algorithm, its limitations and suggests future improvements.",
+    "year": "2019",
+    "Authors": [
+        "Jayatilaka, Gihan",
+        "Weligampola, Harshana",
+        "Sritharan, Suren",
+        "Pathmanathan, Pankayraj",
+        "Ragel, Roshan G.",
+        "Nawinne, Isuru"
+    ],
+    "venue": {
+        "journal": "CoRR",
+        "volume": "abs/1910.04725"
+    },
+    "DOI": "10.48550/arXiv.1910.04725",
+    "pdf": "https://arxiv.org/pdf/1910.04725.pdf",
+    "publication url": "http://arxiv.org/abs/1910.04725",
+    "presentation": "",
+    "code": "",
+    "tags": ["sleep apnea", "video processing", "bio medical engineering", "pattern recognition"]
+}

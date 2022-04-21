@@ -1,0 +1,19 @@
+{
+  "type": "article",
+  "title": "F5N : Nanopore Sequence Analysis Toolkit for Android Smartphones",
+  "abstract": "F5N is the first ever Android application for nanopore sequence analysis on a mobile phone, comprised of popular tools for read alignment (Minimap2), sequence data manipulation (Samtools) and methylation calling (F5C/Nanopolish). On NA12878 nanopore data, F5N can perform a complete methylation calling pipeline on a mobile phone in ∼15 minutes for a batch of 4000 nanopore reads (∼34 megabases). F5N is not only a toolkit but also a framework for integrating existing C/C++ based command line tools to run on Android. F5N will enable performing nanopore sequence analysis on-site when used with an ultra-portable nanopore sequencer (eg: MinION or the anticipated smidgION), consequently reducing the cost for special computers and high-speed Internet.",
+  "year": "2020",
+  "Authors": [
+    "Samarakoon, Hiruna",
+    "Punchihewa, Sanoj",
+    "Senanayake, Anjana",
+    "Ragel, Roshan",
+    "Gamaarachchi, Hasindu"
+  ],
+  "DOI": "10.1038/s42003-020-01270-z",
+  "pdf": "https://www.biorxiv.org/content/10.1101/2020.03.22.002030v2.full.pdf",
+  "publication url": "https://doi.org/10.1101%2F2020.03.22.002030",
+  "presentation": "",
+  "code": "https://github.com/SanojPunchihewa/f5n",
+  "tags": "nanopore sequence analysis"
+}

@@ -1,0 +1,17 @@
+{
+  "type": "article",
+  "title": "Protecting encrypted cookies from compression Side-Channel attacks",
+  "abstract": "Compression is desirable for network applications as it saves bandwidth; however, when data is compressed before being encrypted, the amount of compression leaks information about the amount of redundancy in the plaintext. This side channel has led to successful CRIME and BREACH attacks on web traffic protected by the Transport Layer Security (TLS) protocol. The general guidance in light of these attacks has been to disable compression, preserving confidentiality but sacrificing bandwidth. In this paper, we examine two techniques—heuristic separation of secrets and fixed-dictionary compression—for enabling compression while protecting high-value secrets, such as cookies, from attack. We model the security offered by these techniques and report on the amount of compressibility that they can achieve.",
+  "year": "2015",
+  "Authors": ["Alawatugoda, J.", "Stebila, D.", "Boyd, C."],
+  "venue": {
+    "journal": "Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)",
+    "volume": "8975"
+  },
+  "DOI": "10.1007/978-3-662-47854-7_6",
+  "pdf": "",
+  "publication url": "http://www.scopus.com/inward/record.url?eid=2-s2.0-84949979249&partnerID=MN8TOARS",
+  "presentation": "",
+  "code": "",
+  "tags": ["Side channel attack", "Cryptography", "Data compression"]
+}
