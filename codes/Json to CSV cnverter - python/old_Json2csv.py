@@ -2,19 +2,14 @@ import json
 import csv
 from json.decoder import JSONDecodeError
 
-fileList = []
-
-for j in range (1,59):
-    fileList.append('%s.json'%(j))
-print (fileList)
-    
+fileList = ['1.json','2.json']
 List=[]
 result={}
 data_list = []
 
 for i in range(len(fileList)):
     
-    with open(fileList[i], "r",encoding='utf-8') as infile:
+    with open(fileList[i], "r") as infile:
         result= json.load(infile)
         result_copy=result.copy()
         List.append(result_copy)
@@ -28,11 +23,11 @@ filename="dataSet.json"
 with open(filename, "r") as f:
         data = json.loads(f.read())
 
-
+print (data)
 publications_info = ['type', 'title', 'book title', 'abstract', 'year',
                      'Authors', 'DOI', 'pdf', 'publication url', 'presentation', 'code', 'tags']
 
-with open('dataSet.csv', 'a',newline='',encoding='utf-8') as csvfile:
-    writer = csv.DictWriter(csvfile, fieldnames=publications_info,extrasaction='ignore')
+with open('dataSet.csv', 'a',newline='') as csvfile:
+    writer = csv.DictWriter(csvfile, fieldnames=publications_info)
     writer.writeheader()
     writer.writerows(data)
