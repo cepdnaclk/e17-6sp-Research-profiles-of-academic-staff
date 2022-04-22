@@ -1,0 +1,14 @@
+{
+  "type": "inproceedings",
+  "title": "A computational model to evaluate honesty in social internet of things",
+  "book title": "Proceedings of the Symposium on Applied Computing - {SAC} {\\textquotesingle}17",
+  "abstract": "Trust in Social Internet of Things has allowed to open new horizons in collaborative networking, particularly by allowing objects to communicate with their service providers, based on their relationships analogy to human world. However, strengthening trust is a challenging task as it involves identifying several influential factors in each domain of social-cyber-physical systems in order to build a reliable system. In this paper, we address the issue of understanding and evaluating honesty that is an important trust metric in trustworthiness evaluation process in social networks. First, we identify and define several trust attributes, which affect directly to the honesty. Then, a subjective computational model is derived based on experiences of objects and opinions from friendly objects with respect to identified attributes. Based on the outputs of this model a final honest level is predicted using regression analysis. Finally, the effectiveness of our model is tested using simulations.",
+  "year": "2017",
+  "Authors": ["Jayasinghe, Upul", "Lee, Hyun-Woo", "Lee, Gyu Myoung"],
+  "DOI": "10.1145/3019612.3019840",
+  "pdf": "",
+  "publication url": "https://doi.org/10.1145%2F3019612.3019840",
+  "presentation": "",
+  "code": "",
+  "tags": "SIoT"
+}

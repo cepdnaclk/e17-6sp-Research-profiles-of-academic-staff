@@ -1,0 +1,21 @@
+{
+    "type": "inproceedings",
+    "title": "miRNAFinder: {A} pre-microRNA classifier for plants and analysis of feature impact",
+    "book title": "{IEEE} Conference on Computational Intelligence in Bioinformatics and Computational Biology, {CIBCB} 2020, Vi{\\~{n}}a del Mar, Chile, October 27-29, 2020",
+    "abstract": "MicroRNAs (miRNAs) are endogenous small noncoding RNAs that play an important role in post-transcriptional gene regulation. Several machine learning-based studies have been conducted for miRNA identification with the use of miRNA features. It is difficult to classify real and pseudo-pre-miRNAs in plant species than that in animals since plant pre-miRNAs are more diverse than the animal pre-miRNAs. Therefore, this study is focused on classifying real and pseudo precursor miRNAs (pre-miRNAs) in plants. We have introduced a machine learning model based on a 280 feature set including compositional, sequence-based, and thermodynamic features. Classification performance is tested and compared, considering different feature sets and four different classifiers. Random forest classifier results in the best classification performance with all 280 features with a 97% accuracy for the testing dataset.",
+    "year": "2020",
+    "Authors": [
+        "Ihalagedara, Puwasuru",
+        "Lokuge, Sandali",
+        "Jayasundara, Shyaman",
+        "Herath, Damayanthi",
+        "Kahanda, Indika"
+    ],
+    "DOI": "10.1109/CIBCB48159.2020.9277723",
+    "pdf": "",
+    "publication url": "https://doi.org/10.1109/CIBCB48159.2020.9277723",
+    "presentation": "",
+    "code": "",
+    "tags": ["Feature extraction","RNA","Support vector machines","Testing","Animals","Vegetation","Random forests","bioinformatics"
+        ,"genetics","genomics","macromolecules","molecular biophysics","pattern classification","random forests", "RNA"]
+}

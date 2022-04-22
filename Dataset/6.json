@@ -1,0 +1,20 @@
+{
+    "type": "inproceedings",
+    "title": "Transfer Learning for Accurate and Efficient Tomato Plant Disease Classification Using Leaf Images",
+    "book title": "16th International Conference on Industrial and Information Systems, {ICIIS} 2021, Kandy, Sri Lanka, September 12 - Nov. 12, 2021",
+    "abstract": "Plant leaf diseases cause great damage to crops, resulting in significant yield losses. Traditionally, identification of plant leaf diseases depends on human annotation by visual inspection. Transfer learning has enabled use of existing solutions in one domain to problems from another domain, resulting in more robust and efficient solutions. This work presents a method to identify tomato plant diseases based on leaf images using transfer learning. We used a publicly available dataset which contains tomato plant leaf images for 10 different classes. We considered only five classes and data was split in ratio 8:1:1 for train, validation and test sets respectively. In this work, six different pre trained models were used with fine-tuning methods where we introduced some layers and removed some layers in the network architectures while enhancing the accuracy of models. Accuracies of all the models were above 97% except one model which got 95% accuracy on the testing. Precision, Recall, F1 Score, Confusion matrix and Classification reports were used for evaluations and finally a novel convolutional neural network is proposed for plant disease classification focusing on a real environment. The mentioned model achieved an accuracy of 99.98% on training and an accuracy of 99% on testing. In this work, a good generalization performance could be achieved without data augmentation. The experimental results show that the proposed fine-tuned architecture is effective in identifying tomato leaf diseases and it could be generalized to identify leaf diseases in other plants.",
+    "year": "2021",
+    "Authors": [
+        "Deshan, L. A. Chamli",
+        "Thisanke, M. K. Hans",
+        "Herath, Damayanthi"
+    ],
+    "DOI": "10.1109/ICIIS53135.2021.9660681",
+    "pdf": "",
+    "publication url": "https://doi.org/10.1109/ICIIS53135.2021.9660681",
+    "presentation": "",
+    "code": "",
+    "tags": ["Training","Visualization" ,"Annotations","Transfer learning" ,"Neural networks","Optimization methods","Inspection", "agriculture"
+        ,"crops","diseases","feature extraction","image classification","image recognition","image segmentation","learning (artificial intelligence)"
+        ,"neural nets","pattern classification","plant diseases"]
+}

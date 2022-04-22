@@ -1,0 +1,14 @@
+{
+  "type": "inproceedings",
+  "title": "Leakage Based Multi User Beamforming Scheme to Mitigate Interference in MIMO-FBMC",
+  "book title": "WSA 2013; 17th International ITG Workshop on Smart Antennas",
+  "abstract": "Filter Bank Multicarrier (FBMC) transmission system received much attention recently as an alternative multicarrier modulation (MCM) technique compared to OFDM due to its higher spectral efficiency and less susceptibility to synchronization errors. However, the degradation of performance in multi stream FBMC is comparatively high even with perfect channel state information (CSI) because of interference between users. Hence, in this paper we analyze the inter-user interference in multi user MIMO-FBMC systems and introduce a novel beamforming/precoding technique based on signal-to-leakageplus- noise ratio (SLNR) to overcome the effect of interference among users in the system. The implementation is considered using inverse fast Fourier transform (IFFT). With the use of that the beamforming/precoding matrix is generated. Analysis and simulation results are provided to observe the performance of the system.",
+  "year": "2013",
+  "Authors": ["Jayasinghe, U.", "Rajatheva, N.", "Latva-aho, M."],
+  "DOI": "",
+  "publication url": "https://ieeexplore.ieee.org/document/6780676/",
+  "pdf": "",
+  "presentation": "",
+  "code": "",
+  "tags": ""
+}
